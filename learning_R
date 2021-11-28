@@ -57,3 +57,71 @@ all_wars_matrix <- cbind(star_wars_matrix, worldwide_vector)
 
 #print
 all_wars_matrix
+
+#--------------------------------------------
+# star_wars_matrix and star_wars_matrix2 are available in your workspace
+star_wars_matrix  
+star_wars_matrix2 
+
+# Combine both Star Wars trilogies in one matrix
+all_wars_matrix <- rbind(star_wars_matrix, star_wars_matrix2)
+
+#print
+all_wars_matrix
+
+#output
+#                           US non-US
+#A New Hope              461.0  314.4
+#The Empire Strikes Back 290.5  247.9
+#Return of the Jedi      309.3  165.8
+#The Phantom Menace      474.5  552.5
+#Attack of the Clones    310.7  338.7
+#Revenge of the Sith     380.3  468.5
+
+#--------------------------------------------------
+
+# all_wars_matrix is available in your workspace
+all_wars_matrix
+
+# Select the non-US revenue for all movies
+non_us_all <- all_wars_matrix[, 2]
+#all in column2
+  
+# Average non-US revenue
+mean(non_us_all)
+  
+# Select the non-US revenue for first two movies
+non_us_some <- all_wars_matrix[1:2,2]
+#just first and second in column2
+  
+# Average non-US revenue for first two movies
+mean(non_us_some)
+
+#-------------------------------------
+# all_wars_matrix is available in your workspace
+all_wars_matrix
+
+# Estimate the visitors
+visitors <- all_wars_matrix/5
+#the ticket is 5 dollars
+
+# Print the estimate to the console
+visitors
+
+#-----------------------------------
+# all_wars_matrix and ticket_prices_matrix are available in your workspace
+all_wars_matrix
+ticket_prices_matrix
+
+# Estimated number of visitors
+visitors <- all_wars_matrix/ticket_prices_matrix
+visitors
+
+# US visitors
+us_visitors <- visitors[,1]
+us_visitors
+
+# Average number of US visitors
+mean(us_visitors)
+
+#-----------------------------------
