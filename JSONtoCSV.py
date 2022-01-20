@@ -10,7 +10,7 @@ def addcolumn(r):
   print(locationColumn["latitude"]) #check type
   if type(locationColumn) == dict:
     r["lat"] = locationColumn["latitude"] #add column named "lat"
-    r["long"] = locationCoumn["longtitude"] #add column named "long"
+    r["long"] = locationColumn["longtitude"] #add column named "long"
   else:
     r["lat"] = None
     r["long"] = None
