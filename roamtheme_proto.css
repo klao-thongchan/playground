@@ -578,6 +578,7 @@ span.checkmark {
 }
 
 .rm-block-text {
+  /*color:hsl(0, 0%, 16%);*/
   font-size: var(--font-size) !important;
 }
 
