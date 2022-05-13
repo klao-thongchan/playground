@@ -304,10 +304,24 @@ new Vue({
         ];
     },
     useDataSet2() {
-      this.labels = ['Impressions', 'Add To Cart', 'Buy'];
-      this.subLabels = [];
-      this.values = [14000, 9100, 1230];
-      this.colors = ['#A0BBFF', '#EC77FF'];
+        this.labels = ['Homepage', 'Event', 'Event Collection', 'Event Tag', 'Storefront'];
+        this.subLabels = ['Unpaid Media', 'Service Icon', 'Power Seller Push', 'Paid Media', 'Other', 'Feature Seller', 'Feature Buyer', 'Direct/Seller Push'];
+        this.values = [
+          [268480, 2764783, 15283, 119396, 1364219, 25117, 1151 , 616788],
+          [1046712, 223635, 4319, 2332537, 283195, 2127, 261, 145678],
+          [153442, 56377, 554, 442140, 12146, 352, 34, 28634],
+          [52742, 29602, 358, 299389, 2947, 135, 36, 17635],
+          [924084, 1317632, 824924, 684187, 1672717, 564548, 49995, 19655936]
+        ];
+        this.colors = [
+          ['#FFB178', '#FF78B1', '#FF3C8E', '#FF4CBE', '#FF5CFE'],
+          ['#A0AAFF', '#EC77FF'],
+          ['#A0BBFF', '#EC88FF'],
+          ['#A0CC5F', '#EC99FF'],
+          ['#A0DD5F', '#ECAAFF'],
+          ['#A0EE5F', '#ECBBFF'],
+          ['#A0FF5F', '#ECCCFF'],
+          ['#A0115F', '#ECDDFF']
     },
     useDataSet3() {
       this.labels = ['Traffic', 'Visitor', 'Customer'];
