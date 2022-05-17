@@ -322,6 +322,7 @@ new Vue({
           ['#A0EE5F', '#ECBBFF'],
           ['#A0FF5F', '#ECCCFF'],
           ['#A0115F', '#ECDDFF']
+        ];
     },
     useDataSet3() {
       this.labels = ['Traffic', 'Visitor', 'Customer'];
