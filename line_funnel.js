@@ -395,7 +395,7 @@ new Vue({
     },
     getNextSet() {
       this.dataSetNum++;
-      if (this.dataSetNum > 6) {
+      if (this.dataSetNum > 2) {
         this.dataSetNum = 1;
       }
 
