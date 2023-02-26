@@ -1,0 +1,23 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+
+driver = webdriver.Chrome()
+
+if __name__ == "__main__":
+    print("py started")
+    while True:
+        # press "Ctrl+Shift+C"
+        webdriver.ActionChains(driver).key_down(Keys.CONTROL).key_down(Keys.SHIFT).send_keys('c').perform()
+        # release the keys
+        webdriver.ActionChains(driver).key_up(Keys.CONTROL).key_up(Keys.SHIFT).perform()
+
+        # press "Ctrl+Enter"
+        webdriver.ActionChains(driver).key_down(Keys.CONTROL).send_keys(Keys.ENTER).perform()
+        # release the key
+        webdriver.ActionChains(driver).key_up(Keys.CONTROL).perform()
+
+        # wait for 2 seconds
+        time.sleep(2)
+else:
+    print("py ended")
