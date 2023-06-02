@@ -1,0 +1,167 @@
+[
+  {
+    "min_stage": 1,
+    "max_stage": 19,
+    "gold": "0.15*(x^2)+10",
+    "gold_value_variation": 0.1,
+    "xp": "x*2+10",
+    "xp_value_variation": 0.1,
+    "icon_item_list": [
+      "sins_soul_chest_lv_1",
+      "skill_chest_lv_1"
+    ],
+    "droptable": {
+      "random_count": 3,
+      "nothing_chance": 50,
+      "droptable": "normal_soul_chest_lv_1_droptable"
+    },
+    "drop_rate": [
+      {
+        "random_count": 1,
+        "nothing_chance": 80,
+        "item_list": [
+          "sins_soul_chest_lv_1"
+        ]
+      },
+      {
+        "random_count": 1,
+        "nothing_chance": 80,
+        "item_list": [
+          "skill_chest_lv_1"
+        ]
+      }
+    ]
+  },
+  {
+    "min_stage": 20,
+    "max_stage": 39,
+    "gold": "0.15*(x^2)+100",
+    "gold_value_variation": 0.08,
+    "xp": "x*3+10",
+    "xp_value_variation": 0.08,
+    "icon_item_list": [
+      "sins_soul_chest_lv_1",
+      "skill_chest_lv_1"
+    ],
+    "droptable": {
+      "random_count": 3,
+      "nothing_chance": 50,
+      "droptable": "normal_soul_chest_lv_1_droptable"
+    },
+    "drop_rate": [
+      {
+        "random_count": 1,
+        "nothing_chance": 80,
+        "item_list": [
+          "sins_soul_chest_lv_1"
+        ]
+      },
+      {
+        "random_count": 1,
+        "nothing_chance": 80,
+        "item_list": [
+          "skill_chest_lv_1"
+        ]
+      }
+    ]
+  },
+  {
+    "min_stage": 40,
+    "max_stage": 59,
+    "gold": "0.15*(x^2)+200",
+    "gold_value_variation": 0.05,
+    "xp": "x*4+10",
+    "xp_value_variation": 0.05,
+    "icon_item_list": [
+      "sins_soul_chest_lv_1",
+      "skill_chest_lv_1"
+    ],
+    "droptable": {
+      "random_count": 3,
+      "nothing_chance": 40,
+      "droptable": "normal_soul_chest_lv_1_droptable"
+    },
+    "drop_rate": [
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "sins_soul_chest_lv_1"
+        ]
+      },
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "skill_chest_lv_1"
+        ]
+      }
+    ]
+  },
+  {
+    "min_stage": 60,
+    "max_stage": 79,
+    "gold": "0.15*(x^2)+300",
+    "gold_value_variation": 0.03,
+    "xp": "x*5+10",
+    "xp_value_variation": 0.03,
+    "icon_item_list": [
+      "sins_soul_chest_lv_1",
+      "skill_chest_lv_1"
+    ],
+    "droptable": {
+      "random_count": 3,
+      "nothing_chance": 30,
+      "droptable": "normal_soul_chest_lv_1_droptable"
+    },
+    "drop_rate": [
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "sins_soul_chest_lv_1"
+        ]
+      },
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "skill_chest_lv_1"
+        ]
+      }
+    ]
+  },
+  {
+    "min_stage": 80,
+    "max_stage": 100,
+    "gold": "0.15*(x^2)+400",
+    "gold_value_variation": 0.02,
+    "xp": "x*6+10",
+    "xp_value_variation": 0.02,
+    "icon_item_list": [
+      "sins_soul_chest_lv_1",
+      "skill_chest_lv_1"
+    ],
+    "droptable": {
+      "random_count": 3,
+      "nothing_chance": "60-(x*0.4)",
+      "droptable": "normal_soul_chest_lv_1_droptable"
+    },
+    "drop_rate": [
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "sins_soul_chest_lv_1"
+        ]
+      },
+      {
+        "random_count": 2,
+        "nothing_chance": 80,
+        "item_list": [
+          "skill_chest_lv_1"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "VolatileDamage": [
+    {
+        "weapon": "SWORDSHIELD",
+        "equip_type": "TWO_HAND",
+        "damage_type": "basic",
+        "min": 0.7,
+        "max": 1.1
+    },
+    {
+        "weapon": "GAUNTLET",
+        "equip_type": "TWO_HAND",
+        "damage_type": "blunt",
+        "min": 0.9,
+        "max": 1.1
+    },
+    {
+        "weapon": "GREAT_SWORD",
+        "equip_type": "TWO_HAND",
+        "damage_type": "slash",
+        "min": 0.5,
+        "max": 1.8
+    },
+    {
+        "weapon": "GREAT_KATANA",
+        "equip_type": "TWO_HAND",
+        "damage_type": "slash",
+        "min": 0.9,
+        "max": 1.1
+    },
+    {
+        "weapon": "GREAT_HAMMER",
+        "equip_type": "TWO_HAND",
+        "damage_type": "blunt",
+        "min": 0.5,
+        "max": 1.8
+    }
+  ],
+  "AttackType": {
+    "basic": {
+      "normal": 1,
+      "light": 1,
+      "heavy": 1
+    },
+    "slash": {
+      "normal": 1,
+      "light": 2,
+      "heavy": 0.8
+    },
+    "blunt": {
+      "normal": 1,
+      "light": 0.8,
+      "heavy": 2
+    }
+  }
+}
