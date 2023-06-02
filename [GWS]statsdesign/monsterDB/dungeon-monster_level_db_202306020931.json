@@ -1,0 +1,191 @@
+{
+    "DG_GLUTTONY": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_SLOTH": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_LUST": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_GREEDY": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_PRIDE": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_GOLD": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ],
+    "DG_KNOWLEDGE": [
+        {
+            "min_stage": 1,
+            "max_stage": 2,
+            "formular": "x*10"
+        },
+        {
+            "min_stage": 3,
+            "max_stage": 4,
+            "formular": "(x*12) +4"
+        },
+        {
+            "min_stage": 5,
+            "max_stage": 6,
+            "formular": "(x*14) +8"
+        },
+        {
+            "min_stage": 7,
+            "max_stage": 8,
+            "formular": "(x*16) +10"
+        },
+        {
+            "min_stage": 9,
+            "max_stage": 10,
+            "formular": "(x*18) +12"
+        }
+    ]
+}

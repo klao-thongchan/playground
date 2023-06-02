@@ -1,0 +1,66 @@
+[
+    {
+        "status": "MAX_HP",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "DEFENSE",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "ATTACK",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "ATTACK_RANGE",
+        "bpmultiplier": 0
+    },
+    {
+        "status": "ATTACK_SPEED",
+        "bpmultiplier": 6
+    },
+    {
+        "status": "CRITICAL_CHANCE",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "CRITICAL_DAMAGE",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "SPEED",
+        "bpmultiplier": 0
+    },
+    {
+        "status": "HP_RECOVERY",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "COOLDOWN_REDUCTION",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "SKILL_DAMAGE",
+        "bpmultiplier": 11
+    },
+    {
+        "status": "ATTACK_PERCENT",
+        "bpmultiplier": 16
+    },
+    {
+        "status": "MAX_HP_PERCENT",
+        "bpmultiplier": 16
+    },
+    {
+        "status": "DEFENSE_PERCENT",
+        "bpmultiplier": 16
+    },
+    {
+        "status": "ATK_SPEED_PERCENT",
+        "bpmultiplier": 16
+    },
+    {
+        "status": "MOVE_SPEED_PERCENT",
+        "bpmultiplier": 16
+    }
+]

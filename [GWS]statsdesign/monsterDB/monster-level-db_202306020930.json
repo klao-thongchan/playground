@@ -1,0 +1,82 @@
+[
+    {
+        "min_stage": 1,
+        "max_stage": 19,
+        "formular": "(x*1.1)+1"
+    },
+    {
+        "min_stage": 20,
+        "max_stage": 39,
+        "formular": "(x*1.2)+4"
+    },
+    {
+        "min_stage": 40,
+        "max_stage": 59,
+        "formular": "(x*1.5)+8"
+    },
+    {
+        "min_stage": 60,
+        "max_stage": 79,
+        "formular": "(x*3)+16"
+    },
+    {
+        "min_stage": 80,
+        "max_stage": 99,
+        "formular": "(x*6)+32"
+    },
+    {
+        "min_stage": 100,
+        "max_stage": 119,
+        "formular": "(x*12)+64"
+    },
+    {
+        "min_stage": 120,
+        "max_stage": 139,
+        "formular": "(x*14)+128"
+    },
+    {
+        "min_stage": 140,
+        "max_stage": 159,
+        "formular": "(x*14)+256"
+    },
+    {
+        "min_stage": 160,
+        "max_stage": 179,
+        "formular": "(x*14)+512"
+    },
+    {
+        "min_stage": 180,
+        "max_stage": 199,
+        "formular": "(x*14)+1028"
+    },
+    {
+        "min_stage": 200,
+        "max_stage": 219,
+        "formular": "(x*20)+2048"
+    },
+    {
+        "min_stage": 220,
+        "max_stage": 239,
+        "formular": "(x*20)+4096"
+    },
+    {
+        "min_stage": 240,
+        "max_stage": 259,
+        "formular": "(x*20)+8192"
+    },
+    {
+        "min_stage": 260,
+        "max_stage": 279,
+        "formular": "(x*20)+16384"
+    },
+    {
+        "min_stage": 280,
+        "max_stage": 299,
+        "formular": "(x*20)+32768"
+    },
+    {
+        "min_stage": 300,
+        "max_stage": 300,
+        "formular": "(x*40)+65536"
+    }
+]
