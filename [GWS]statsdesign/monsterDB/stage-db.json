@@ -1,0 +1,702 @@
+[
+    {
+        "stage_id": "1-1",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-2",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-3",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-4",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "1-5",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_05","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-6",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_05","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "1-7",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "1-8",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "1-9",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "1-10",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-11",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_01","level":1,"amount":1},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-12",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_07","level":1,"amount":1}]},{"info":[{"id":"no_gl_03","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_02","level":1,"amount":1},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-13",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_03","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_03","level":1,"amount":1},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-14",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_02","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_01","level":1,"amount":2},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-15",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_gl_02","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-16",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_03","level":1,"amount":2},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-17",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_01","level":1,"amount":3},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-18",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1}]},{"info":[{"id":"no_gl_05","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_02","level":1,"amount":3},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-19",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_05","level":1,"amount":1}]},{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gl_04","level":1,"amount":1},{"id":"no_gl_03","level":1,"amount":3},{"id":"bo_en_01","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "1-20",
+        "asset_path": "Stages/gluttony/gluttony.prefab",
+        "stage_bgm": "bgm_gluttony.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gl_01","level":1,"amount":1}]},{"info":[{"id":"no_gl_06","level":1,"amount":1}]},{"info":[{"id":"no_gl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_gl_01","level":1,"amount":2},{"id":"bo_gl_02","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-1",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_06","level":1,"amount":1}]},{"info":[{"id":"no_sl_02","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-2",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_02","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-3",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-4",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "2-5",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_02","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "2-6",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_02","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "2-7",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_01","level":1,"amount":1}]},{"info":[{"id":"no_sl_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "2-8",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_01","level":1,"amount":1}]},{"info":[{"id":"no_sl_06","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "2-9",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_06","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "2-10",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-11",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_06","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_01","level":1,"amount":1},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-12",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_06","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_02","level":1,"amount":1},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-13",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_03","level":1,"amount":1},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-14",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_01","level":1,"amount":2},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-15",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_03","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_02","level":1,"amount":2},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-16",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_03","level":1,"amount":2},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-17",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_01","level":1,"amount":3},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-18",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_02","level":1,"amount":3},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-19",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_05","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1},{"id":"no_sl_03","level":1,"amount":3},{"id":"bo_en_03","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "2-20",
+        "asset_path": "Stages/sloth/sloth.prefab",
+        "stage_bgm": "bgm_sloth.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_sl_04","level":1,"amount":1}]},{"info":[{"id":"no_sl_02","level":1,"amount":1}]},{"info":[{"id":"no_sl_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_03","level":1,"amount":2},{"id":"bo_en_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-1",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_02","level":1,"amount":1}]},{"info":[{"id":"no_lu_04","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-2",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-3",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-4",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "3-5",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "3-6",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "3-7",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "3-8",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "3-9",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "3-10",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-11",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_01","level":1,"amount":1},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-12",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_06","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_02","level":1,"amount":1},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-13",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_03","level":1,"amount":1},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-14",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_01","level":1,"amount":2},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-15",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_02","level":1,"amount":2},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-16",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_05","level":1,"amount":1}]},{"info":[{"id":"no_lu_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_03","level":1,"amount":2},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-17",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_05","level":1,"amount":1}]},{"info":[{"id":"no_lu_04","level":1,"amount":1}]},{"info":[{"id":"no_lu_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_01","level":1,"amount":3},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-18",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1}]},{"info":[{"id":"no_lu_02","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_02","level":1,"amount":3},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-19",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_02","level":1,"amount":1}]},{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_lu_04","level":1,"amount":1},{"id":"no_lu_03","level":1,"amount":3},{"id":"bo_en_07","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "3-20",
+        "asset_path": "Stages/lust/lust.prefab",
+        "stage_bgm": "bgm_lust.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_lu_01","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]},{"info":[{"id":"no_lu_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_07","level":1,"amount":2},{"id":"bo_en_08","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-1",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-2",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-3",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-4",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_02","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "4-5",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_02","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "4-6",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_02","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "4-7",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_02","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "4-8",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "4-9",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "4-10",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-11",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_01","level":1,"amount":1},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-12",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_01","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_02","level":1,"amount":1},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-13",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_01","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_03","level":1,"amount":1},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-14",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_01","level":1,"amount":2},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-15",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_01","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_02","level":1,"amount":2},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-16",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_01","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_03","level":1,"amount":2},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-17",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_01","level":1,"amount":3},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-18",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_03","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_02","level":1,"amount":3},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-19",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1},{"id":"no_gr_03","level":1,"amount":3},{"id":"bo_en_09","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "4-20",
+        "asset_path": "Stages/greedy/greedy.prefab",
+        "stage_bgm": "bgm_greedy.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_gr_04","level":1,"amount":1}]},{"info":[{"id":"no_gr_06","level":1,"amount":1}]},{"info":[{"id":"no_gr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_09","level":1,"amount":2},{"id":"bo_en_10","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-1",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_06","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-2",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-3",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-4",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "5-5",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "5-6",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":2}]}]
+    },
+    {
+        "stage_id": "5-7",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "5-8",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "5-9",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":3}]}]
+    },
+    {
+        "stage_id": "5-10",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-11",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_01","level":1,"amount":1},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-12",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_01","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_02","level":1,"amount":1},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-13",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_01","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_03","level":1,"amount":1},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-14",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_01","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_01","level":1,"amount":2},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-15",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_02","level":1,"amount":2},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-16",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_05","level":1,"amount":1}]},{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_03","level":1,"amount":2},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-17",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_03","level":1,"amount":1}]},{"info":[{"id":"no_pr_06","level":1,"amount":1}]},{"info":[{"id":"no_pr_06","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_01","level":1,"amount":3},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-18",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_06","level":1,"amount":1}]},{"info":[{"id":"no_pr_06","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_02","level":1,"amount":3},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-19",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_06","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"no_pr_04","level":1,"amount":1},{"id":"no_pr_03","level":1,"amount":3},{"id":"bo_en_13","level":1,"amount":1}]}]
+    },
+    {
+        "stage_id": "5-20",
+        "asset_path": "Stages/pride/pride.prefab",
+        "stage_bgm": "bgm_pride.mp3",
+        "normal_mode_pool": [{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"no_pr_02","level":1,"amount":1}]},{"info":[{"id":"","level":1,"amount":1}]}],
+        "challenge_mode_pool": [{"info":[{"id":"bo_en_13","level":1,"amount":2},{"id":"bo_en_14","level":1,"amount":1}]}]
+    }
+]
