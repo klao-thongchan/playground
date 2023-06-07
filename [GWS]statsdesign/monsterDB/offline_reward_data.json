@@ -1,0 +1,1 @@
+[     {         "min_stage": 1,         "max_stage": 50,         "count_per_hour": 20,         "max_battle_hour": 8,         "pernalty_offline_reward": 0.3     },     {         "min_stage": 51,         "max_stage": 100,         "count_per_hour": 15,         "max_battle_hour": 8,         "pernalty_offline_reward": 0.3     } ]
