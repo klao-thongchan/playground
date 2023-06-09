@@ -1,0 +1,2412 @@
+{
+    "GAUNTLET": [
+      {
+          "rarity": "common",
+          "level": 1,
+          "cost": 0,
+          "items_require": []
+      },
+      {
+          "rarity": "common",
+          "level": 2,
+          "cost": 1000,
+          "items_require": [{"item_id":"it_002","amount":5},{"item_id":"it_032","amount":1}]
+      },
+      {
+          "rarity": "common",
+          "level": 3,
+          "cost": 3000,
+          "items_require": [{"item_id":"it_002","amount":10},{"item_id":"it_032","amount":3}]
+      },
+      {
+          "rarity": "common",
+          "level": 4,
+          "cost": 5000,
+          "items_require": [{"item_id":"it_002","amount":15},{"item_id":"it_032","amount":6}]
+      },
+      {
+          "rarity": "common",
+          "level": 5,
+          "cost": 7000,
+          "items_require": [{"item_id":"it_002","amount":20},{"item_id":"it_032","amount":9}]
+      },
+      {
+          "rarity": "common",
+          "level": 6,
+          "cost": 9000,
+          "items_require": [{"item_id":"it_002","amount":25},{"item_id":"it_032","amount":12}]
+      },
+      {
+          "rarity": "common",
+          "level": 7,
+          "cost": 11000,
+          "items_require": [{"item_id":"it_002","amount":30},{"item_id":"it_032","amount":15}]
+      },
+      {
+          "rarity": "common",
+          "level": 8,
+          "cost": 13000,
+          "items_require": [{"item_id":"it_002","amount":35},{"item_id":"it_032","amount":18}]
+      },
+      {
+          "rarity": "common",
+          "level": 9,
+          "cost": 15000,
+          "items_require": [{"item_id":"it_002","amount":40},{"item_id":"it_032","amount":21}]
+      },
+      {
+          "rarity": "common",
+          "level": 10,
+          "cost": 17000,
+          "items_require": [{"item_id":"it_002","amount":45},{"item_id":"it_032","amount":24}]
+      },
+      {
+          "rarity": "common",
+          "level": 11,
+          "cost": 19000,
+          "items_require": [{"item_id":"it_002","amount":50},{"item_id":"it_032","amount":27}]
+      },
+      {
+          "rarity": "common",
+          "level": 12,
+          "cost": 21000,
+          "items_require": [{"item_id":"it_002","amount":55},{"item_id":"it_032","amount":30}]
+      },
+      {
+          "rarity": "common",
+          "level": 13,
+          "cost": 23000,
+          "items_require": [{"item_id":"it_002","amount":60},{"item_id":"it_032","amount":33}]
+      },
+      {
+          "rarity": "common",
+          "level": 14,
+          "cost": 25000,
+          "items_require": [{"item_id":"it_002","amount":65},{"item_id":"it_032","amount":36}]
+      },
+      {
+          "rarity": "common",
+          "level": 15,
+          "cost": 27000,
+          "items_require": [{"item_id":"it_002","amount":70},{"item_id":"it_032","amount":39}]
+      },
+      {
+          "rarity": "common",
+          "level": 16,
+          "cost": 29000,
+          "items_require": [{"item_id":"it_002","amount":75},{"item_id":"it_032","amount":42}]
+      },
+      {
+          "rarity": "common",
+          "level": 17,
+          "cost": 31000,
+          "items_require": [{"item_id":"it_002","amount":80},{"item_id":"it_032","amount":45}]
+      },
+      {
+          "rarity": "common",
+          "level": 18,
+          "cost": 33000,
+          "items_require": [{"item_id":"it_002","amount":85},{"item_id":"it_032","amount":48}]
+      },
+      {
+          "rarity": "common",
+          "level": 19,
+          "cost": 35000,
+          "items_require": [{"item_id":"it_002","amount":90},{"item_id":"it_032","amount":51}]
+      },
+      {
+          "rarity": "common",
+          "level": 20,
+          "cost": 37000,
+          "items_require": [{"item_id":"it_002","amount":100},{"item_id":"it_032","amount":60}]
+      },
+      {
+          "rarity": "rare",
+          "level": 1,
+          "cost": 0,
+          "items_require": []
+      },
+      {
+          "rarity": "rare",
+          "level": 2,
+          "cost": 1000,
+          "items_require": [{"item_id":"it_003","amount":5},{"item_id":"it_033","amount":1}]
+      },
+      {
+          "rarity": "rare",
+          "level": 3,
+          "cost": 3000,
+          "items_require": [{"item_id":"it_003","amount":10},{"item_id":"it_033","amount":3}]
+      },
+      {
+          "rarity": "rare",
+          "level": 4,
+          "cost": 5000,
+          "items_require": [{"item_id":"it_003","amount":15},{"item_id":"it_033","amount":6}]
+      },
+      {
+          "rarity": "rare",
+          "level": 5,
+          "cost": 7000,
+          "items_require": [{"item_id":"it_003","amount":20},{"item_id":"it_033","amount":9}]
+      },
+      {
+          "rarity": "rare",
+          "level": 6,
+          "cost": 9000,
+          "items_require": [{"item_id":"it_003","amount":25},{"item_id":"it_033","amount":12}]
+      },
+      {
+          "rarity": "rare",
+          "level": 7,
+          "cost": 11000,
+          "items_require": [{"item_id":"it_003","amount":30},{"item_id":"it_033","amount":15}]
+      },
+      {
+          "rarity": "rare",
+          "level": 8,
+          "cost": 13000,
+          "items_require": [{"item_id":"it_003","amount":35},{"item_id":"it_033","amount":18}]
+      },
+      {
+          "rarity": "rare",
+          "level": 9,
+          "cost": 15000,
+          "items_require": [{"item_id":"it_003","amount":40},{"item_id":"it_033","amount":21}]
+      },
+      {
+          "rarity": "rare",
+          "level": 10,
+          "cost": 17000,
+          "items_require": [{"item_id":"it_003","amount":45},{"item_id":"it_033","amount":24}]
+      },
+      {
+          "rarity": "rare",
+          "level": 11,
+          "cost": 19000,
+          "items_require": [{"item_id":"it_003","amount":50},{"item_id":"it_033","amount":27}]
+      },
+      {
+          "rarity": "rare",
+          "level": 12,
+          "cost": 21000,
+          "items_require": [{"item_id":"it_003","amount":55},{"item_id":"it_033","amount":30}]
+      },
+      {
+          "rarity": "rare",
+          "level": 13,
+          "cost": 23000,
+          "items_require": [{"item_id":"it_003","amount":60},{"item_id":"it_033","amount":33}]
+      },
+      {
+          "rarity": "rare",
+          "level": 14,
+          "cost": 25000,
+          "items_require": [{"item_id":"it_003","amount":65},{"item_id":"it_033","amount":36}]
+      },
+      {
+          "rarity": "rare",
+          "level": 15,
+          "cost": 27000,
+          "items_require": [{"item_id":"it_003","amount":70},{"item_id":"it_033","amount":39}]
+      },
+      {
+          "rarity": "rare",
+          "level": 16,
+          "cost": 29000,
+          "items_require": [{"item_id":"it_003","amount":75},{"item_id":"it_033","amount":42}]
+      },
+      {
+          "rarity": "rare",
+          "level": 17,
+          "cost": 31000,
+          "items_require": [{"item_id":"it_003","amount":80},{"item_id":"it_033","amount":45}]
+      },
+      {
+          "rarity": "rare",
+          "level": 18,
+          "cost": 33000,
+          "items_require": [{"item_id":"it_003","amount":85},{"item_id":"it_033","amount":48}]
+      },
+      {
+          "rarity": "rare",
+          "level": 19,
+          "cost": 35000,
+          "items_require": [{"item_id":"it_003","amount":90},{"item_id":"it_033","amount":51}]
+      },
+      {
+          "rarity": "rare",
+          "level": 20,
+          "cost": 37000,
+          "items_require": [{"item_id":"it_003","amount":100},{"item_id":"it_033","amount":60}]
+      },
+      {
+          "rarity": "epic",
+          "level": 1,
+          "cost": 0,
+          "items_require": []
+      },
+      {
+          "rarity": "epic",
+          "level": 2,
+          "cost": 1000,
+          "items_require": [{"item_id":"it_004","amount":5},{"item_id":"it_034","amount":1}]
+      },
+      {
+          "rarity": "epic",
+          "level": 3,
+          "cost": 3000,
+          "items_require": [{"item_id":"it_004","amount":10},{"item_id":"it_034","amount":3}]
+      },
+      {
+          "rarity": "epic",
+          "level": 4,
+          "cost": 5000,
+          "items_require": [{"item_id":"it_004","amount":15},{"item_id":"it_034","amount":6}]
+      },
+      {
+          "rarity": "epic",
+          "level": 5,
+          "cost": 7000,
+          "items_require": [{"item_id":"it_004","amount":20},{"item_id":"it_034","amount":9}]
+      },
+      {
+          "rarity": "epic",
+          "level": 6,
+          "cost": 9000,
+          "items_require": [{"item_id":"it_004","amount":25},{"item_id":"it_034","amount":12}]
+      },
+      {
+          "rarity": "epic",
+          "level": 7,
+          "cost": 11000,
+          "items_require": [{"item_id":"it_004","amount":30},{"item_id":"it_034","amount":15}]
+      },
+      {
+          "rarity": "epic",
+          "level": 8,
+          "cost": 13000,
+          "items_require": [{"item_id":"it_004","amount":35},{"item_id":"it_034","amount":18}]
+      },
+      {
+          "rarity": "epic",
+          "level": 9,
+          "cost": 15000,
+          "items_require": [{"item_id":"it_004","amount":40},{"item_id":"it_034","amount":21}]
+      },
+      {
+          "rarity": "epic",
+          "level": 10,
+          "cost": 17000,
+          "items_require": [{"item_id":"it_004","amount":45},{"item_id":"it_034","amount":24}]
+      },
+      {
+          "rarity": "epic",
+          "level": 11,
+          "cost": 19000,
+          "items_require": [{"item_id":"it_004","amount":50},{"item_id":"it_034","amount":27}]
+      },
+      {
+          "rarity": "epic",
+          "level": 12,
+          "cost": 21000,
+          "items_require": [{"item_id":"it_004","amount":55},{"item_id":"it_034","amount":30}]
+      },
+      {
+          "rarity": "epic",
+          "level": 13,
+          "cost": 23000,
+          "items_require": [{"item_id":"it_004","amount":60},{"item_id":"it_034","amount":33}]
+      },
+      {
+          "rarity": "epic",
+          "level": 14,
+          "cost": 25000,
+          "items_require": [{"item_id":"it_004","amount":65},{"item_id":"it_034","amount":36}]
+      },
+      {
+          "rarity": "epic",
+          "level": 15,
+          "cost": 27000,
+          "items_require": [{"item_id":"it_004","amount":70},{"item_id":"it_034","amount":39}]
+      },
+      {
+          "rarity": "epic",
+          "level": 16,
+          "cost": 29000,
+          "items_require": [{"item_id":"it_004","amount":75},{"item_id":"it_034","amount":42}]
+      },
+      {
+          "rarity": "epic",
+          "level": 17,
+          "cost": 31000,
+          "items_require": [{"item_id":"it_004","amount":80},{"item_id":"it_034","amount":45}]
+      },
+      {
+          "rarity": "epic",
+          "level": 18,
+          "cost": 33000,
+          "items_require": [{"item_id":"it_004","amount":85},{"item_id":"it_034","amount":48}]
+      },
+      {
+          "rarity": "epic",
+          "level": 19,
+          "cost": 35000,
+          "items_require": [{"item_id":"it_004","amount":90},{"item_id":"it_034","amount":51}]
+      },
+      {
+          "rarity": "epic",
+          "level": 20,
+          "cost": 37000,
+          "items_require": [{"item_id":"it_004","amount":100},{"item_id":"it_034","amount":60}]
+      },
+      {
+          "rarity": "legend",
+          "level": 1,
+          "cost": 0,
+          "items_require": []
+      },
+      {
+          "rarity": "legend",
+          "level": 2,
+          "cost": 1000,
+          "items_require": [{"item_id":"it_005","amount":5},{"item_id":"it_035","amount":1}]
+      },
+      {
+          "rarity": "legend",
+          "level": 3,
+          "cost": 3000,
+          "items_require": [{"item_id":"it_005","amount":10},{"item_id":"it_035","amount":3}]
+      },
+      {
+          "rarity": "legend",
+          "level": 4,
+          "cost": 5000,
+          "items_require": [{"item_id":"it_005","amount":15},{"item_id":"it_035","amount":6}]
+      },
+      {
+          "rarity": "legend",
+          "level": 5,
+          "cost": 7000,
+          "items_require": [{"item_id":"it_005","amount":20},{"item_id":"it_035","amount":9}]
+      },
+      {
+          "rarity": "legend",
+          "level": 6,
+          "cost": 9000,
+          "items_require": [{"item_id":"it_005","amount":25},{"item_id":"it_035","amount":12}]
+      },
+      {
+          "rarity": "legend",
+          "level": 7,
+          "cost": 11000,
+          "items_require": [{"item_id":"it_005","amount":30},{"item_id":"it_035","amount":15}]
+      },
+      {
+          "rarity": "legend",
+          "level": 8,
+          "cost": 13000,
+          "items_require": [{"item_id":"it_005","amount":35},{"item_id":"it_035","amount":18}]
+      },
+      {
+          "rarity": "legend",
+          "level": 9,
+          "cost": 15000,
+          "items_require": [{"item_id":"it_005","amount":40},{"item_id":"it_035","amount":21}]
+      },
+      {
+          "rarity": "legend",
+          "level": 10,
+          "cost": 17000,
+          "items_require": [{"item_id":"it_005","amount":45},{"item_id":"it_035","amount":24}]
+      },
+      {
+          "rarity": "legend",
+          "level": 11,
+          "cost": 19000,
+          "items_require": [{"item_id":"it_005","amount":50},{"item_id":"it_035","amount":27}]
+      },
+      {
+          "rarity": "legend",
+          "level": 12,
+          "cost": 21000,
+          "items_require": [{"item_id":"it_005","amount":55},{"item_id":"it_035","amount":30}]
+      },
+      {
+          "rarity": "legend",
+          "level": 13,
+          "cost": 23000,
+          "items_require": [{"item_id":"it_005","amount":60},{"item_id":"it_035","amount":33}]
+      },
+      {
+          "rarity": "legend",
+          "level": 14,
+          "cost": 25000,
+          "items_require": [{"item_id":"it_005","amount":65},{"item_id":"it_035","amount":36}]
+      },
+      {
+          "rarity": "legend",
+          "level": 15,
+          "cost": 27000,
+          "items_require": [{"item_id":"it_005","amount":70},{"item_id":"it_035","amount":39}]
+      },
+      {
+          "rarity": "legend",
+          "level": 16,
+          "cost": 29000,
+          "items_require": [{"item_id":"it_005","amount":75},{"item_id":"it_035","amount":42}]
+      },
+      {
+          "rarity": "legend",
+          "level": 17,
+          "cost": 31000,
+          "items_require": [{"item_id":"it_005","amount":80},{"item_id":"it_035","amount":45}]
+      },
+      {
+          "rarity": "legend",
+          "level": 18,
+          "cost": 33000,
+          "items_require": [{"item_id":"it_005","amount":85},{"item_id":"it_035","amount":48}]
+      },
+      {
+          "rarity": "legend",
+          "level": 19,
+          "cost": 35000,
+          "items_require": [{"item_id":"it_005","amount":90},{"item_id":"it_035","amount":51}]
+      },
+      {
+          "rarity": "legend",
+          "level": 20,
+          "cost": 37000,
+          "items_require": [{"item_id":"it_005","amount":100},{"item_id":"it_035","amount":60}]
+      }
+  ],
+    "GREAT_SWORD": [
+        {
+            "rarity": "common",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "common",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_002","amount":5},{"item_id":"it_008","amount":1}]
+        },
+        {
+            "rarity": "common",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_002","amount":10},{"item_id":"it_008","amount":3}]
+        },
+        {
+            "rarity": "common",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_002","amount":15},{"item_id":"it_008","amount":6}]
+        },
+        {
+            "rarity": "common",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_002","amount":20},{"item_id":"it_008","amount":9}]
+        },
+        {
+            "rarity": "common",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_002","amount":25},{"item_id":"it_008","amount":12}]
+        },
+        {
+            "rarity": "common",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_002","amount":30},{"item_id":"it_008","amount":15}]
+        },
+        {
+            "rarity": "common",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_002","amount":35},{"item_id":"it_008","amount":18}]
+        },
+        {
+            "rarity": "common",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_002","amount":40},{"item_id":"it_008","amount":21}]
+        },
+        {
+            "rarity": "common",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_002","amount":45},{"item_id":"it_008","amount":24}]
+        },
+        {
+            "rarity": "common",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_002","amount":50},{"item_id":"it_008","amount":27}]
+        },
+        {
+            "rarity": "common",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_002","amount":55},{"item_id":"it_008","amount":30}]
+        },
+        {
+            "rarity": "common",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_002","amount":60},{"item_id":"it_008","amount":33}]
+        },
+        {
+            "rarity": "common",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_002","amount":65},{"item_id":"it_008","amount":36}]
+        },
+        {
+            "rarity": "common",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_002","amount":70},{"item_id":"it_008","amount":39}]
+        },
+        {
+            "rarity": "common",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_002","amount":75},{"item_id":"it_008","amount":42}]
+        },
+        {
+            "rarity": "common",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_002","amount":80},{"item_id":"it_008","amount":45}]
+        },
+        {
+            "rarity": "common",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_002","amount":85},{"item_id":"it_008","amount":48}]
+        },
+        {
+            "rarity": "common",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_002","amount":90},{"item_id":"it_008","amount":51}]
+        },
+        {
+            "rarity": "common",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_002","amount":100},{"item_id":"it_008","amount":60}]
+        },
+        {
+            "rarity": "rare",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "rare",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_003","amount":5},{"item_id":"it_009","amount":1}]
+        },
+        {
+            "rarity": "rare",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_003","amount":10},{"item_id":"it_009","amount":3}]
+        },
+        {
+            "rarity": "rare",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_003","amount":15},{"item_id":"it_009","amount":6}]
+        },
+        {
+            "rarity": "rare",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_003","amount":20},{"item_id":"it_009","amount":9}]
+        },
+        {
+            "rarity": "rare",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_003","amount":25},{"item_id":"it_009","amount":12}]
+        },
+        {
+            "rarity": "rare",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_003","amount":30},{"item_id":"it_009","amount":15}]
+        },
+        {
+            "rarity": "rare",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_003","amount":35},{"item_id":"it_009","amount":18}]
+        },
+        {
+            "rarity": "rare",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_003","amount":40},{"item_id":"it_009","amount":21}]
+        },
+        {
+            "rarity": "rare",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_003","amount":45},{"item_id":"it_009","amount":24}]
+        },
+        {
+            "rarity": "rare",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_003","amount":50},{"item_id":"it_009","amount":27}]
+        },
+        {
+            "rarity": "rare",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_003","amount":55},{"item_id":"it_009","amount":30}]
+        },
+        {
+            "rarity": "rare",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_003","amount":60},{"item_id":"it_009","amount":33}]
+        },
+        {
+            "rarity": "rare",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_003","amount":65},{"item_id":"it_009","amount":36}]
+        },
+        {
+            "rarity": "rare",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_003","amount":70},{"item_id":"it_009","amount":39}]
+        },
+        {
+            "rarity": "rare",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_003","amount":75},{"item_id":"it_009","amount":42}]
+        },
+        {
+            "rarity": "rare",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_003","amount":80},{"item_id":"it_009","amount":45}]
+        },
+        {
+            "rarity": "rare",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_003","amount":85},{"item_id":"it_009","amount":48}]
+        },
+        {
+            "rarity": "rare",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_003","amount":90},{"item_id":"it_009","amount":51}]
+        },
+        {
+            "rarity": "rare",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_003","amount":100},{"item_id":"it_009","amount":60}]
+        },
+        {
+            "rarity": "epic",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "epic",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_004","amount":5},{"item_id":"it_010","amount":1}]
+        },
+        {
+            "rarity": "epic",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_004","amount":10},{"item_id":"it_010","amount":3}]
+        },
+        {
+            "rarity": "epic",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_004","amount":15},{"item_id":"it_010","amount":6}]
+        },
+        {
+            "rarity": "epic",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_004","amount":20},{"item_id":"it_010","amount":9}]
+        },
+        {
+            "rarity": "epic",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_004","amount":25},{"item_id":"it_010","amount":12}]
+        },
+        {
+            "rarity": "epic",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_004","amount":30},{"item_id":"it_010","amount":15}]
+        },
+        {
+            "rarity": "epic",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_004","amount":35},{"item_id":"it_010","amount":18}]
+        },
+        {
+            "rarity": "epic",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_004","amount":40},{"item_id":"it_010","amount":21}]
+        },
+        {
+            "rarity": "epic",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_004","amount":45},{"item_id":"it_010","amount":24}]
+        },
+        {
+            "rarity": "epic",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_004","amount":50},{"item_id":"it_010","amount":27}]
+        },
+        {
+            "rarity": "epic",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_004","amount":55},{"item_id":"it_010","amount":30}]
+        },
+        {
+            "rarity": "epic",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_004","amount":60},{"item_id":"it_010","amount":33}]
+        },
+        {
+            "rarity": "epic",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_004","amount":65},{"item_id":"it_010","amount":36}]
+        },
+        {
+            "rarity": "epic",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_004","amount":70},{"item_id":"it_010","amount":39}]
+        },
+        {
+            "rarity": "epic",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_004","amount":75},{"item_id":"it_010","amount":42}]
+        },
+        {
+            "rarity": "epic",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_004","amount":80},{"item_id":"it_010","amount":45}]
+        },
+        {
+            "rarity": "epic",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_004","amount":85},{"item_id":"it_010","amount":48}]
+        },
+        {
+            "rarity": "epic",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_004","amount":90},{"item_id":"it_010","amount":51}]
+        },
+        {
+            "rarity": "epic",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_004","amount":100},{"item_id":"it_010","amount":60}]
+        },
+        {
+            "rarity": "legend",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "legend",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_005","amount":5},{"item_id":"it_011","amount":1}]
+        },
+        {
+            "rarity": "legend",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_005","amount":10},{"item_id":"it_011","amount":3}]
+        },
+        {
+            "rarity": "legend",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_005","amount":15},{"item_id":"it_011","amount":6}]
+        },
+        {
+            "rarity": "legend",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_005","amount":20},{"item_id":"it_011","amount":9}]
+        },
+        {
+            "rarity": "legend",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_005","amount":25},{"item_id":"it_011","amount":12}]
+        },
+        {
+            "rarity": "legend",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_005","amount":30},{"item_id":"it_011","amount":15}]
+        },
+        {
+            "rarity": "legend",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_005","amount":35},{"item_id":"it_011","amount":18}]
+        },
+        {
+            "rarity": "legend",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_005","amount":40},{"item_id":"it_011","amount":21}]
+        },
+        {
+            "rarity": "legend",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_005","amount":45},{"item_id":"it_011","amount":24}]
+        },
+        {
+            "rarity": "legend",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_005","amount":50},{"item_id":"it_011","amount":27}]
+        },
+        {
+            "rarity": "legend",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_005","amount":55},{"item_id":"it_011","amount":30}]
+        },
+        {
+            "rarity": "legend",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_005","amount":60},{"item_id":"it_011","amount":33}]
+        },
+        {
+            "rarity": "legend",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_005","amount":65},{"item_id":"it_011","amount":36}]
+        },
+        {
+            "rarity": "legend",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_005","amount":70},{"item_id":"it_011","amount":39}]
+        },
+        {
+            "rarity": "legend",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_005","amount":75},{"item_id":"it_011","amount":42}]
+        },
+        {
+            "rarity": "legend",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_005","amount":80},{"item_id":"it_011","amount":45}]
+        },
+        {
+            "rarity": "legend",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_005","amount":85},{"item_id":"it_011","amount":48}]
+        },
+        {
+            "rarity": "legend",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_005","amount":90},{"item_id":"it_011","amount":51}]
+        },
+        {
+            "rarity": "legend",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_005","amount":100},{"item_id":"it_011","amount":60}]
+        }
+    ],
+    "GREAT_KATANA": [
+        {
+            "rarity": "common",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "common",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_002","amount":5},{"item_id":"it_026","amount":1}]
+        },
+        {
+            "rarity": "common",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_002","amount":10},{"item_id":"it_026","amount":3}]
+        },
+        {
+            "rarity": "common",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_002","amount":15},{"item_id":"it_026","amount":6}]
+        },
+        {
+            "rarity": "common",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_002","amount":20},{"item_id":"it_026","amount":9}]
+        },
+        {
+            "rarity": "common",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_002","amount":25},{"item_id":"it_026","amount":12}]
+        },
+        {
+            "rarity": "common",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_002","amount":30},{"item_id":"it_026","amount":15}]
+        },
+        {
+            "rarity": "common",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_002","amount":35},{"item_id":"it_026","amount":18}]
+        },
+        {
+            "rarity": "common",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_002","amount":40},{"item_id":"it_026","amount":21}]
+        },
+        {
+            "rarity": "common",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_002","amount":45},{"item_id":"it_026","amount":24}]
+        },
+        {
+            "rarity": "common",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_002","amount":50},{"item_id":"it_026","amount":27}]
+        },
+        {
+            "rarity": "common",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_002","amount":55},{"item_id":"it_026","amount":30}]
+        },
+        {
+            "rarity": "common",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_002","amount":60},{"item_id":"it_026","amount":33}]
+        },
+        {
+            "rarity": "common",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_002","amount":65},{"item_id":"it_026","amount":36}]
+        },
+        {
+            "rarity": "common",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_002","amount":70},{"item_id":"it_026","amount":39}]
+        },
+        {
+            "rarity": "common",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_002","amount":75},{"item_id":"it_026","amount":42}]
+        },
+        {
+            "rarity": "common",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_002","amount":80},{"item_id":"it_026","amount":45}]
+        },
+        {
+            "rarity": "common",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_002","amount":85},{"item_id":"it_026","amount":48}]
+        },
+        {
+            "rarity": "common",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_002","amount":90},{"item_id":"it_026","amount":51}]
+        },
+        {
+            "rarity": "common",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_002","amount":100},{"item_id":"it_026","amount":60}]
+        },
+        {
+            "rarity": "rare",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "rare",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_003","amount":5},{"item_id":"it_027","amount":1}]
+        },
+        {
+            "rarity": "rare",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_003","amount":10},{"item_id":"it_027","amount":3}]
+        },
+        {
+            "rarity": "rare",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_003","amount":15},{"item_id":"it_027","amount":6}]
+        },
+        {
+            "rarity": "rare",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_003","amount":20},{"item_id":"it_027","amount":9}]
+        },
+        {
+            "rarity": "rare",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_003","amount":25},{"item_id":"it_027","amount":12}]
+        },
+        {
+            "rarity": "rare",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_003","amount":30},{"item_id":"it_027","amount":15}]
+        },
+        {
+            "rarity": "rare",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_003","amount":35},{"item_id":"it_027","amount":18}]
+        },
+        {
+            "rarity": "rare",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_003","amount":40},{"item_id":"it_027","amount":21}]
+        },
+        {
+            "rarity": "rare",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_003","amount":45},{"item_id":"it_027","amount":24}]
+        },
+        {
+            "rarity": "rare",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_003","amount":50},{"item_id":"it_027","amount":27}]
+        },
+        {
+            "rarity": "rare",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_003","amount":55},{"item_id":"it_027","amount":30}]
+        },
+        {
+            "rarity": "rare",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_003","amount":60},{"item_id":"it_027","amount":33}]
+        },
+        {
+            "rarity": "rare",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_003","amount":65},{"item_id":"it_027","amount":36}]
+        },
+        {
+            "rarity": "rare",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_003","amount":70},{"item_id":"it_027","amount":39}]
+        },
+        {
+            "rarity": "rare",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_003","amount":75},{"item_id":"it_027","amount":42}]
+        },
+        {
+            "rarity": "rare",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_003","amount":80},{"item_id":"it_027","amount":45}]
+        },
+        {
+            "rarity": "rare",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_003","amount":85},{"item_id":"it_027","amount":48}]
+        },
+        {
+            "rarity": "rare",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_003","amount":90},{"item_id":"it_027","amount":51}]
+        },
+        {
+            "rarity": "rare",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_003","amount":100},{"item_id":"it_027","amount":60}]
+        },
+        {
+            "rarity": "epic",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "epic",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_004","amount":5},{"item_id":"it_028","amount":1}]
+        },
+        {
+            "rarity": "epic",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_004","amount":10},{"item_id":"it_028","amount":3}]
+        },
+        {
+            "rarity": "epic",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_004","amount":15},{"item_id":"it_028","amount":6}]
+        },
+        {
+            "rarity": "epic",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_004","amount":20},{"item_id":"it_028","amount":9}]
+        },
+        {
+            "rarity": "epic",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_004","amount":25},{"item_id":"it_028","amount":12}]
+        },
+        {
+            "rarity": "epic",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_004","amount":30},{"item_id":"it_028","amount":15}]
+        },
+        {
+            "rarity": "epic",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_004","amount":35},{"item_id":"it_028","amount":18}]
+        },
+        {
+            "rarity": "epic",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_004","amount":40},{"item_id":"it_028","amount":21}]
+        },
+        {
+            "rarity": "epic",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_004","amount":45},{"item_id":"it_028","amount":24}]
+        },
+        {
+            "rarity": "epic",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_004","amount":50},{"item_id":"it_028","amount":27}]
+        },
+        {
+            "rarity": "epic",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_004","amount":55},{"item_id":"it_028","amount":30}]
+        },
+        {
+            "rarity": "epic",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_004","amount":60},{"item_id":"it_028","amount":33}]
+        },
+        {
+            "rarity": "epic",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_004","amount":65},{"item_id":"it_028","amount":36}]
+        },
+        {
+            "rarity": "epic",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_004","amount":70},{"item_id":"it_028","amount":39}]
+        },
+        {
+            "rarity": "epic",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_004","amount":75},{"item_id":"it_028","amount":42}]
+        },
+        {
+            "rarity": "epic",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_004","amount":80},{"item_id":"it_028","amount":45}]
+        },
+        {
+            "rarity": "epic",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_004","amount":85},{"item_id":"it_028","amount":48}]
+        },
+        {
+            "rarity": "epic",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_004","amount":90},{"item_id":"it_028","amount":51}]
+        },
+        {
+            "rarity": "epic",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_004","amount":100},{"item_id":"it_028","amount":60}]
+        },
+        {
+            "rarity": "legend",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "legend",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_005","amount":5},{"item_id":"it_029","amount":1}]
+        },
+        {
+            "rarity": "legend",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_005","amount":10},{"item_id":"it_029","amount":3}]
+        },
+        {
+            "rarity": "legend",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_005","amount":15},{"item_id":"it_029","amount":6}]
+        },
+        {
+            "rarity": "legend",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_005","amount":20},{"item_id":"it_029","amount":9}]
+        },
+        {
+            "rarity": "legend",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_005","amount":25},{"item_id":"it_029","amount":12}]
+        },
+        {
+            "rarity": "legend",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_005","amount":30},{"item_id":"it_029","amount":15}]
+        },
+        {
+            "rarity": "legend",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_005","amount":35},{"item_id":"it_029","amount":18}]
+        },
+        {
+            "rarity": "legend",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_005","amount":40},{"item_id":"it_029","amount":21}]
+        },
+        {
+            "rarity": "legend",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_005","amount":45},{"item_id":"it_029","amount":24}]
+        },
+        {
+            "rarity": "legend",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_005","amount":50},{"item_id":"it_029","amount":27}]
+        },
+        {
+            "rarity": "legend",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_005","amount":55},{"item_id":"it_029","amount":30}]
+        },
+        {
+            "rarity": "legend",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_005","amount":60},{"item_id":"it_029","amount":33}]
+        },
+        {
+            "rarity": "legend",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_005","amount":65},{"item_id":"it_029","amount":36}]
+        },
+        {
+            "rarity": "legend",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_005","amount":70},{"item_id":"it_029","amount":39}]
+        },
+        {
+            "rarity": "legend",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_005","amount":75},{"item_id":"it_029","amount":42}]
+        },
+        {
+            "rarity": "legend",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_005","amount":80},{"item_id":"it_029","amount":45}]
+        },
+        {
+            "rarity": "legend",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_005","amount":85},{"item_id":"it_029","amount":48}]
+        },
+        {
+            "rarity": "legend",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_005","amount":90},{"item_id":"it_029","amount":51}]
+        },
+        {
+            "rarity": "legend",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_005","amount":100},{"item_id":"it_029","amount":60}]
+        }
+    ],
+    "GREAT_HAMMER": [
+        {
+            "rarity": "common",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "common",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_002","amount":5},{"item_id":"it_044","amount":1}]
+        },
+        {
+            "rarity": "common",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_002","amount":10},{"item_id":"it_044","amount":3}]
+        },
+        {
+            "rarity": "common",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_002","amount":15},{"item_id":"it_044","amount":6}]
+        },
+        {
+            "rarity": "common",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_002","amount":20},{"item_id":"it_044","amount":9}]
+        },
+        {
+            "rarity": "common",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_002","amount":25},{"item_id":"it_044","amount":12}]
+        },
+        {
+            "rarity": "common",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_002","amount":30},{"item_id":"it_044","amount":15}]
+        },
+        {
+            "rarity": "common",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_002","amount":35},{"item_id":"it_044","amount":18}]
+        },
+        {
+            "rarity": "common",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_002","amount":40},{"item_id":"it_044","amount":21}]
+        },
+        {
+            "rarity": "common",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_002","amount":45},{"item_id":"it_044","amount":24}]
+        },
+        {
+            "rarity": "common",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_002","amount":50},{"item_id":"it_044","amount":27}]
+        },
+        {
+            "rarity": "common",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_002","amount":55},{"item_id":"it_044","amount":30}]
+        },
+        {
+            "rarity": "common",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_002","amount":60},{"item_id":"it_044","amount":33}]
+        },
+        {
+            "rarity": "common",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_002","amount":65},{"item_id":"it_044","amount":36}]
+        },
+        {
+            "rarity": "common",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_002","amount":70},{"item_id":"it_044","amount":39}]
+        },
+        {
+            "rarity": "common",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_002","amount":75},{"item_id":"it_044","amount":42}]
+        },
+        {
+            "rarity": "common",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_002","amount":80},{"item_id":"it_044","amount":45}]
+        },
+        {
+            "rarity": "common",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_002","amount":85},{"item_id":"it_044","amount":48}]
+        },
+        {
+            "rarity": "common",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_002","amount":90},{"item_id":"it_044","amount":51}]
+        },
+        {
+            "rarity": "common",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_002","amount":100},{"item_id":"it_044","amount":60}]
+        },
+        {
+            "rarity": "rare",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "rare",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_003","amount":5},{"item_id":"it_045","amount":1}]
+        },
+        {
+            "rarity": "rare",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_003","amount":10},{"item_id":"it_045","amount":3}]
+        },
+        {
+            "rarity": "rare",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_003","amount":15},{"item_id":"it_045","amount":6}]
+        },
+        {
+            "rarity": "rare",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_003","amount":20},{"item_id":"it_045","amount":9}]
+        },
+        {
+            "rarity": "rare",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_003","amount":25},{"item_id":"it_045","amount":12}]
+        },
+        {
+            "rarity": "rare",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_003","amount":30},{"item_id":"it_045","amount":15}]
+        },
+        {
+            "rarity": "rare",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_003","amount":35},{"item_id":"it_045","amount":18}]
+        },
+        {
+            "rarity": "rare",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_003","amount":40},{"item_id":"it_045","amount":21}]
+        },
+        {
+            "rarity": "rare",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_003","amount":45},{"item_id":"it_045","amount":24}]
+        },
+        {
+            "rarity": "rare",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_003","amount":50},{"item_id":"it_045","amount":27}]
+        },
+        {
+            "rarity": "rare",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_003","amount":55},{"item_id":"it_045","amount":30}]
+        },
+        {
+            "rarity": "rare",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_003","amount":60},{"item_id":"it_045","amount":33}]
+        },
+        {
+            "rarity": "rare",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_003","amount":65},{"item_id":"it_045","amount":36}]
+        },
+        {
+            "rarity": "rare",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_003","amount":70},{"item_id":"it_045","amount":39}]
+        },
+        {
+            "rarity": "rare",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_003","amount":75},{"item_id":"it_045","amount":42}]
+        },
+        {
+            "rarity": "rare",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_003","amount":80},{"item_id":"it_045","amount":45}]
+        },
+        {
+            "rarity": "rare",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_003","amount":85},{"item_id":"it_045","amount":48}]
+        },
+        {
+            "rarity": "rare",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_003","amount":90},{"item_id":"it_045","amount":51}]
+        },
+        {
+            "rarity": "rare",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_003","amount":100},{"item_id":"it_045","amount":60}]
+        },
+        {
+            "rarity": "epic",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "epic",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_004","amount":5},{"item_id":"it_046","amount":1}]
+        },
+        {
+            "rarity": "epic",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_004","amount":10},{"item_id":"it_046","amount":3}]
+        },
+        {
+            "rarity": "epic",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_004","amount":15},{"item_id":"it_046","amount":6}]
+        },
+        {
+            "rarity": "epic",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_004","amount":20},{"item_id":"it_046","amount":9}]
+        },
+        {
+            "rarity": "epic",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_004","amount":25},{"item_id":"it_046","amount":12}]
+        },
+        {
+            "rarity": "epic",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_004","amount":30},{"item_id":"it_046","amount":15}]
+        },
+        {
+            "rarity": "epic",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_004","amount":35},{"item_id":"it_046","amount":18}]
+        },
+        {
+            "rarity": "epic",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_004","amount":40},{"item_id":"it_046","amount":21}]
+        },
+        {
+            "rarity": "epic",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_004","amount":45},{"item_id":"it_046","amount":24}]
+        },
+        {
+            "rarity": "epic",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_004","amount":50},{"item_id":"it_046","amount":27}]
+        },
+        {
+            "rarity": "epic",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_004","amount":55},{"item_id":"it_046","amount":30}]
+        },
+        {
+            "rarity": "epic",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_004","amount":60},{"item_id":"it_046","amount":33}]
+        },
+        {
+            "rarity": "epic",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_004","amount":65},{"item_id":"it_046","amount":36}]
+        },
+        {
+            "rarity": "epic",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_004","amount":70},{"item_id":"it_046","amount":39}]
+        },
+        {
+            "rarity": "epic",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_004","amount":75},{"item_id":"it_046","amount":42}]
+        },
+        {
+            "rarity": "epic",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_004","amount":80},{"item_id":"it_046","amount":45}]
+        },
+        {
+            "rarity": "epic",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_004","amount":85},{"item_id":"it_046","amount":48}]
+        },
+        {
+            "rarity": "epic",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_004","amount":90},{"item_id":"it_046","amount":51}]
+        },
+        {
+            "rarity": "epic",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_004","amount":100},{"item_id":"it_046","amount":60}]
+        },
+        {
+            "rarity": "legend",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "legend",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_005","amount":5},{"item_id":"it_047","amount":1}]
+        },
+        {
+            "rarity": "legend",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_005","amount":10},{"item_id":"it_047","amount":3}]
+        },
+        {
+            "rarity": "legend",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_005","amount":15},{"item_id":"it_047","amount":6}]
+        },
+        {
+            "rarity": "legend",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_005","amount":20},{"item_id":"it_047","amount":9}]
+        },
+        {
+            "rarity": "legend",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_005","amount":25},{"item_id":"it_047","amount":12}]
+        },
+        {
+            "rarity": "legend",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_005","amount":30},{"item_id":"it_047","amount":15}]
+        },
+        {
+            "rarity": "legend",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_005","amount":35},{"item_id":"it_047","amount":18}]
+        },
+        {
+            "rarity": "legend",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_005","amount":40},{"item_id":"it_047","amount":21}]
+        },
+        {
+            "rarity": "legend",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_005","amount":45},{"item_id":"it_047","amount":24}]
+        },
+        {
+            "rarity": "legend",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_005","amount":50},{"item_id":"it_047","amount":27}]
+        },
+        {
+            "rarity": "legend",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_005","amount":55},{"item_id":"it_047","amount":30}]
+        },
+        {
+            "rarity": "legend",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_005","amount":60},{"item_id":"it_047","amount":33}]
+        },
+        {
+            "rarity": "legend",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_005","amount":65},{"item_id":"it_047","amount":36}]
+        },
+        {
+            "rarity": "legend",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_005","amount":70},{"item_id":"it_047","amount":39}]
+        },
+        {
+            "rarity": "legend",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_005","amount":75},{"item_id":"it_047","amount":42}]
+        },
+        {
+            "rarity": "legend",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_005","amount":80},{"item_id":"it_047","amount":45}]
+        },
+        {
+            "rarity": "legend",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_005","amount":85},{"item_id":"it_047","amount":48}]
+        },
+        {
+            "rarity": "legend",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_005","amount":90},{"item_id":"it_047","amount":51}]
+        },
+        {
+            "rarity": "legend",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_005","amount":100},{"item_id":"it_047","amount":60}]
+        }
+    ],
+    "SWORDSHIELD": [
+        {
+            "rarity": "common",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "common",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_002","amount":5},{"item_id":"it_014","amount":1}]
+        },
+        {
+            "rarity": "common",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_002","amount":10},{"item_id":"it_014","amount":3}]
+        },
+        {
+            "rarity": "common",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_002","amount":15},{"item_id":"it_014","amount":6}]
+        },
+        {
+            "rarity": "common",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_002","amount":20},{"item_id":"it_014","amount":9}]
+        },
+        {
+            "rarity": "common",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_002","amount":25},{"item_id":"it_014","amount":12}]
+        },
+        {
+            "rarity": "common",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_002","amount":30},{"item_id":"it_014","amount":15}]
+        },
+        {
+            "rarity": "common",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_002","amount":35},{"item_id":"it_014","amount":18}]
+        },
+        {
+            "rarity": "common",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_002","amount":40},{"item_id":"it_014","amount":21}]
+        },
+        {
+            "rarity": "common",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_002","amount":45},{"item_id":"it_014","amount":24}]
+        },
+        {
+            "rarity": "common",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_002","amount":50},{"item_id":"it_014","amount":27}]
+        },
+        {
+            "rarity": "common",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_002","amount":55},{"item_id":"it_014","amount":30}]
+        },
+        {
+            "rarity": "common",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_002","amount":60},{"item_id":"it_014","amount":33}]
+        },
+        {
+            "rarity": "common",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_002","amount":65},{"item_id":"it_014","amount":36}]
+        },
+        {
+            "rarity": "common",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_002","amount":70},{"item_id":"it_014","amount":39}]
+        },
+        {
+            "rarity": "common",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_002","amount":75},{"item_id":"it_014","amount":42}]
+        },
+        {
+            "rarity": "common",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_002","amount":80},{"item_id":"it_014","amount":45}]
+        },
+        {
+            "rarity": "common",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_002","amount":85},{"item_id":"it_014","amount":48}]
+        },
+        {
+            "rarity": "common",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_002","amount":90},{"item_id":"it_014","amount":51}]
+        },
+        {
+            "rarity": "common",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_002","amount":100},{"item_id":"it_014","amount":60}]
+        },
+        {
+            "rarity": "rare",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "rare",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_003","amount":5},{"item_id":"it_015","amount":1}]
+        },
+        {
+            "rarity": "rare",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_003","amount":10},{"item_id":"it_015","amount":3}]
+        },
+        {
+            "rarity": "rare",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_003","amount":15},{"item_id":"it_015","amount":6}]
+        },
+        {
+            "rarity": "rare",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_003","amount":20},{"item_id":"it_015","amount":9}]
+        },
+        {
+            "rarity": "rare",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_003","amount":25},{"item_id":"it_015","amount":12}]
+        },
+        {
+            "rarity": "rare",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_003","amount":30},{"item_id":"it_015","amount":15}]
+        },
+        {
+            "rarity": "rare",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_003","amount":35},{"item_id":"it_015","amount":18}]
+        },
+        {
+            "rarity": "rare",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_003","amount":40},{"item_id":"it_015","amount":21}]
+        },
+        {
+            "rarity": "rare",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_003","amount":45},{"item_id":"it_015","amount":24}]
+        },
+        {
+            "rarity": "rare",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_003","amount":50},{"item_id":"it_015","amount":27}]
+        },
+        {
+            "rarity": "rare",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_003","amount":55},{"item_id":"it_015","amount":30}]
+        },
+        {
+            "rarity": "rare",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_003","amount":60},{"item_id":"it_015","amount":33}]
+        },
+        {
+            "rarity": "rare",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_003","amount":65},{"item_id":"it_015","amount":36}]
+        },
+        {
+            "rarity": "rare",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_003","amount":70},{"item_id":"it_015","amount":39}]
+        },
+        {
+            "rarity": "rare",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_003","amount":75},{"item_id":"it_015","amount":42}]
+        },
+        {
+            "rarity": "rare",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_003","amount":80},{"item_id":"it_015","amount":45}]
+        },
+        {
+            "rarity": "rare",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_003","amount":85},{"item_id":"it_015","amount":48}]
+        },
+        {
+            "rarity": "rare",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_003","amount":90},{"item_id":"it_015","amount":51}]
+        },
+        {
+            "rarity": "rare",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_003","amount":100},{"item_id":"it_015","amount":60}]
+        },
+        {
+            "rarity": "epic",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "epic",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_004","amount":5},{"item_id":"it_016","amount":1}]
+        },
+        {
+            "rarity": "epic",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_004","amount":10},{"item_id":"it_016","amount":3}]
+        },
+        {
+            "rarity": "epic",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_004","amount":15},{"item_id":"it_016","amount":6}]
+        },
+        {
+            "rarity": "epic",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_004","amount":20},{"item_id":"it_016","amount":9}]
+        },
+        {
+            "rarity": "epic",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_004","amount":25},{"item_id":"it_016","amount":12}]
+        },
+        {
+            "rarity": "epic",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_004","amount":30},{"item_id":"it_016","amount":15}]
+        },
+        {
+            "rarity": "epic",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_004","amount":35},{"item_id":"it_016","amount":18}]
+        },
+        {
+            "rarity": "epic",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_004","amount":40},{"item_id":"it_016","amount":21}]
+        },
+        {
+            "rarity": "epic",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_004","amount":45},{"item_id":"it_016","amount":24}]
+        },
+        {
+            "rarity": "epic",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_004","amount":50},{"item_id":"it_016","amount":27}]
+        },
+        {
+            "rarity": "epic",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_004","amount":55},{"item_id":"it_016","amount":30}]
+        },
+        {
+            "rarity": "epic",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_004","amount":60},{"item_id":"it_016","amount":33}]
+        },
+        {
+            "rarity": "epic",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_004","amount":65},{"item_id":"it_016","amount":36}]
+        },
+        {
+            "rarity": "epic",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_004","amount":70},{"item_id":"it_016","amount":39}]
+        },
+        {
+            "rarity": "epic",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_004","amount":75},{"item_id":"it_016","amount":42}]
+        },
+        {
+            "rarity": "epic",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_004","amount":80},{"item_id":"it_016","amount":45}]
+        },
+        {
+            "rarity": "epic",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_004","amount":85},{"item_id":"it_016","amount":48}]
+        },
+        {
+            "rarity": "epic",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_004","amount":90},{"item_id":"it_016","amount":51}]
+        },
+        {
+            "rarity": "epic",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_004","amount":100},{"item_id":"it_016","amount":60}]
+        },
+        {
+            "rarity": "legend",
+            "level": 1,
+            "cost": 0,
+            "items_require": []
+        },
+        {
+            "rarity": "legend",
+            "level": 2,
+            "cost": 1000,
+            "items_require": [{"item_id":"it_005","amount":5},{"item_id":"it_017","amount":1}]
+        },
+        {
+            "rarity": "legend",
+            "level": 3,
+            "cost": 3000,
+            "items_require": [{"item_id":"it_005","amount":10},{"item_id":"it_017","amount":3}]
+        },
+        {
+            "rarity": "legend",
+            "level": 4,
+            "cost": 5000,
+            "items_require": [{"item_id":"it_005","amount":15},{"item_id":"it_017","amount":6}]
+        },
+        {
+            "rarity": "legend",
+            "level": 5,
+            "cost": 7000,
+            "items_require": [{"item_id":"it_005","amount":20},{"item_id":"it_017","amount":9}]
+        },
+        {
+            "rarity": "legend",
+            "level": 6,
+            "cost": 9000,
+            "items_require": [{"item_id":"it_005","amount":25},{"item_id":"it_017","amount":12}]
+        },
+        {
+            "rarity": "legend",
+            "level": 7,
+            "cost": 11000,
+            "items_require": [{"item_id":"it_005","amount":30},{"item_id":"it_017","amount":15}]
+        },
+        {
+            "rarity": "legend",
+            "level": 8,
+            "cost": 13000,
+            "items_require": [{"item_id":"it_005","amount":35},{"item_id":"it_017","amount":18}]
+        },
+        {
+            "rarity": "legend",
+            "level": 9,
+            "cost": 15000,
+            "items_require": [{"item_id":"it_005","amount":40},{"item_id":"it_017","amount":21}]
+        },
+        {
+            "rarity": "legend",
+            "level": 10,
+            "cost": 17000,
+            "items_require": [{"item_id":"it_005","amount":45},{"item_id":"it_017","amount":24}]
+        },
+        {
+            "rarity": "legend",
+            "level": 11,
+            "cost": 19000,
+            "items_require": [{"item_id":"it_005","amount":50},{"item_id":"it_017","amount":27}]
+        },
+        {
+            "rarity": "legend",
+            "level": 12,
+            "cost": 21000,
+            "items_require": [{"item_id":"it_005","amount":55},{"item_id":"it_017","amount":30}]
+        },
+        {
+            "rarity": "legend",
+            "level": 13,
+            "cost": 23000,
+            "items_require": [{"item_id":"it_005","amount":60},{"item_id":"it_017","amount":33}]
+        },
+        {
+            "rarity": "legend",
+            "level": 14,
+            "cost": 25000,
+            "items_require": [{"item_id":"it_005","amount":65},{"item_id":"it_017","amount":36}]
+        },
+        {
+            "rarity": "legend",
+            "level": 15,
+            "cost": 27000,
+            "items_require": [{"item_id":"it_005","amount":70},{"item_id":"it_017","amount":39}]
+        },
+        {
+            "rarity": "legend",
+            "level": 16,
+            "cost": 29000,
+            "items_require": [{"item_id":"it_005","amount":75},{"item_id":"it_017","amount":42}]
+        },
+        {
+            "rarity": "legend",
+            "level": 17,
+            "cost": 31000,
+            "items_require": [{"item_id":"it_005","amount":80},{"item_id":"it_017","amount":45}]
+        },
+        {
+            "rarity": "legend",
+            "level": 18,
+            "cost": 33000,
+            "items_require": [{"item_id":"it_005","amount":85},{"item_id":"it_017","amount":48}]
+        },
+        {
+            "rarity": "legend",
+            "level": 19,
+            "cost": 35000,
+            "items_require": [{"item_id":"it_005","amount":90},{"item_id":"it_017","amount":51}]
+        },
+        {
+            "rarity": "legend",
+            "level": 20,
+            "cost": 37000,
+            "items_require": [{"item_id":"it_005","amount":100},{"item_id":"it_017","amount":60}]
+        }
+    ]
+}
