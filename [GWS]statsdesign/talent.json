@@ -1,0 +1,52 @@
+[
+  {
+    "id": "talent_001",
+    "weapon_type": "SWORDSHIELD",
+    "description": "talent_001",
+    "max_level": 900,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x",
+    "gold": "2*x^2"
+  },
+  {
+    "id": "talent_002",
+    "weapon_type": "GAUNTLET",
+    "description": "talent_002",
+    "max_level": 900,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x",
+    "gold": "2*x^2"
+  },
+  {
+    "id": "talent_003",
+    "weapon_type": "GREAT_SWORD",
+    "description": "talent_003",
+    "max_level": 900,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x",
+    "gold": "2*x^2"
+  },
+  {
+    "id": "talent_004",
+    "weapon_type": "GREAT_KATANA",
+    "description": "talent_004",
+    "max_level": 900,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x",
+    "gold": "2*x^2"
+  },
+  {
+    "id": "talent_005",
+    "weapon_type": "GREAT_HAMMER",
+    "description": "talent_005",
+    "max_level": 900,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x",
+    "gold": "2*x^2"
+  }
+]
