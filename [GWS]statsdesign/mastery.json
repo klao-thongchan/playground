@@ -1,0 +1,121 @@
+[
+  {
+    "id": "mastery_001",
+    "description": "mastery_atk",
+    "max_level": 500,
+    "condition": null,
+    "param": "ATTACK",
+    "effect": "x*10",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_003",
+    "description": "mastery_def",
+    "max_level": 500,
+    "condition": null,
+    "param": "DEFENSE",
+    "effect": "x*10",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_005",
+    "description": "mastery_hp",
+    "max_level": 500,
+    "condition": null,
+    "param": "MAX_HP",
+    "effect": "x*100",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_007",
+    "description": "mastery_atk_spd_percent",
+    "max_level": 100,
+    "condition": null,
+    "param": "ATTACK_PERCENT",
+    "effect": "x*2",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_010",
+    "description": "mastery_skill_damage",
+    "max_level": 500,
+    "condition": null,
+    "param": "SKILL_DAMAGE",
+    "effect": "x*10",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_002",
+    "description": "mastery_atk_percent",
+    "max_level": 200,
+    "condition": [
+      {
+        "mastery_id": "mastery_001",
+        "level": 100
+      }
+    ],
+    "param": "ATTACK_PERCENT",
+    "effect": "x*0.2",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_004",
+    "description": "mastery_def_percent",
+    "max_level": 200,
+    "condition": [
+      {
+        "mastery_id": "mastery_003",
+        "level": 100
+      }
+    ],
+    "param": "DEFENSE_PERCENT",
+    "effect": "x*0.2",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_006",
+    "description": "mastery_hp_percent",
+    "max_level": 200,
+    "condition": [
+      {
+        "mastery_id": "mastery_005",
+        "level": 100
+      }
+    ],
+    "param": "MAX_HP_PERCENT",
+    "effect": "x*0.2",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_008",
+    "description": "mastery_crit_percent",
+    "max_level": 100,
+    "condition": [
+      {
+        "mastery_id": "mastery_001",
+        "level": 300
+      },
+      {
+        "mastery_id": "mastery_002",
+        "level": 200
+      }
+    ],
+    "param": "CRITICAL_CHANCE",
+    "effect": "x*0.2",
+    "xp": "100*x^2"
+  },
+  {
+    "id": "mastery_009",
+    "description": "mastery_crit_dmg_percent",
+    "max_level": 100,
+    "condition": [
+      {
+        "mastery_id": "mastery_008",
+        "level": 1
+      }
+    ],
+    "param": "CRITICAL_DAMAGE",
+    "effect": "x*0.2",
+    "xp": "100*x^2"
+  }
+]
