@@ -1,0 +1,27 @@
+{
+  "main_config": {
+    "bot_bp_multiplier": 0.7,
+    "refresh_player_cooldown": 0,
+    "equipment_percentage": 30,
+    "powerup_percentage": 50,
+    "skill_percentage": 20,
+    "hp_multiplier": 5,
+    "pvp_timer": 60,
+    "buff_atk_pvp_time": 30,
+    "buff_atk_pvp_multiplier": 3
+  },
+  "equipment_config": {
+    "weapon_percentage": 50,
+    "armor_percentage": 30,
+    "helmet_percentage": 20
+  },
+  "powerup_config": {
+    "talent_percentage": 50,
+    "mastery_percentage": 50
+  },
+  "mastery_config": {
+    "attack_percentage": 50,
+    "defense_percentage": 30,
+    "maxHP_percentage": 20
+  }
+}
