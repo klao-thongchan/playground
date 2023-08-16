@@ -1,0 +1,415 @@
+[
+    {
+      "StoreId": "PACKAGE",
+      "Store": [
+        {
+          "ItemId": "com.evilsoul.starter_pack",
+          "VirtualCurrencyPrices": {
+            "GM": 550,
+            "ES": null,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.boss_weapon_skin",
+          "VirtualCurrencyPrices": {
+            "GM": 550,
+            "ES": null,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.dungeon_ticket",
+          "VirtualCurrencyPrices": {
+            "GM": 310,
+            "ES": null,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.first_topup_package",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 1
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        }
+      ],
+      "SegmentOverrides": [],
+      "MarketingData": {
+        "DisplayName": "package",
+        "Description": null,
+        "Metadata": null
+      }
+    },
+    {
+      "StoreId": "RESOURCE",
+      "Store": [
+        {
+          "ItemId": "com.evilsoul.gem_1",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 1
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.gem_2",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 3
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.gem_3",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 6
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.gem_4",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 10
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.gem_5",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 21
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "com.evilsoul.gem_6",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": null,
+            "RM": 60
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        }
+      ],
+      "SegmentOverrides": [],
+      "MarketingData": {
+        "DisplayName": "resource",
+        "Description": null,
+        "Metadata": null
+      }
+    },
+    {
+      "StoreId": "EVIL",
+      "Store": [
+        {
+          "ItemId": "cs_001_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_004_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_005_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 15,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_009_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 30,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_010_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 30,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_011_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_012_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_013_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 30,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_014_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 70,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_015_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 70,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_019_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_020_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 15,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_021_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_022_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_023_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_024_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 30,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_025_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 70,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_027_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_029_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 70,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_030_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 70,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_031_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 10,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_032_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 15,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "cs_034_shard",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 15,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "passive_evil_stone",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 5,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "sins_soul_dg_ticket",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 2,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "gold_dg_ticket",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 2,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "xp_dg_ticket",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 2,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        },
+        {
+          "ItemId": "arena_ticket",
+          "VirtualCurrencyPrices": {
+            "GM": null,
+            "ES": 2,
+            "RM": null
+          },
+          "CustomData": "",
+          "DisplayPosition": null
+        }
+      ],
+      "SegmentOverrides": [],
+      "MarketingData": {
+        "DisplayName": "Evil",
+        "Description": null,
+        "Metadata": null
+      }
+    }
+  ]
