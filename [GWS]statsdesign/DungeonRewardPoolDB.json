@@ -1,0 +1,924 @@
+{
+  "DG_GLUTTONY": [
+    {
+      "min_stage": 1,
+      "max_stage": 3,
+      "gold": "0.15*(x^2)+50",
+      "gold_value_variation": 0.1,
+      "xp": "x*2",
+      "xp_value_variation": 0.1,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "gluttony_soul_chest_lv_1_droptable"
+      }
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 6,
+      "gold": "0.15*(x^2)+100",
+      "gold_value_variation": 0.08,
+      "xp": "x*2",
+      "xp_value_variation": 0.08,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "gluttony_soul_chest_lv_2_droptable"
+      }
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 9,
+      "gold": "0.15*(x^2)+150",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "gluttony_soul_chest_lv_3_droptable"
+      }
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": "0.15*(x^2)+250",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "gluttony_soul_chest_lv_4_droptable"
+      }
+    }
+  ],
+  "DG_SLOTH": [
+    {
+      "min_stage": 1,
+      "max_stage": 3,
+      "gold": "0.15*(x^2)+50",
+      "gold_value_variation": 0.1,
+      "xp": "x*2",
+      "xp_value_variation": 0.1,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "sloth_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "sloth_soul_chest_lv_1_droptable"
+      }
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 6,
+      "gold": "0.15*(x^2)+100",
+      "gold_value_variation": 0.08,
+      "xp": "x*2",
+      "xp_value_variation": 0.08,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "sloth_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "sloth_soul_chest_lv_2_droptable"
+      }
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 9,
+      "gold": "0.15*(x^2)+150",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "sloth_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "sloth_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "sloth_soul_chest_lv_3_droptable"
+      }
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": "0.15*(x^2)+250",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "sloth_soul_chest_lv_4_droptable"
+      }
+    }
+  ],
+  "DG_LUST": [
+    {
+      "min_stage": 1,
+      "max_stage": 3,
+      "gold": "0.15*(x^2)+50",
+      "gold_value_variation": 0.1,
+      "xp": "x*2",
+      "xp_value_variation": 0.1,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "lust_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "lust_soul_chest_lv_1_droptable"
+      }
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 6,
+      "gold": "0.15*(x^2)+100",
+      "gold_value_variation": 0.08,
+      "xp": "x*2",
+      "xp_value_variation": 0.08,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "lust_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "lust_soul_chest_lv_2_droptable"
+      }
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 9,
+      "gold": "0.15*(x^2)+150",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "lust_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "lust_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "lust_soul_chest_lv_3_droptable"
+      }
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": "0.15*(x^2)+250",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "lust_soul_chest_lv_4_droptable"
+      }
+    }
+  ],
+  "DG_GREEDY": [
+    {
+      "min_stage": 1,
+      "max_stage": 3,
+      "gold": "0.15*(x^2)+50",
+      "gold_value_variation": 0.1,
+      "xp": "x*2",
+      "xp_value_variation": 0.1,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "greedy_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "greedy_soul_chest_lv_1_droptable"
+      }
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 6,
+      "gold": "0.15*(x^2)+100",
+      "gold_value_variation": 0.08,
+      "xp": "x*2",
+      "xp_value_variation": 0.08,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "greedy_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "greedy_soul_chest_lv_2_droptable"
+      }
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 9,
+      "gold": "0.15*(x^2)+150",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "greedy_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "greedy_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "greedy_soul_chest_lv_3_droptable"
+      }
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": "0.15*(x^2)+250",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "greedy_soul_chest_lv_4_droptable"
+      }
+    }
+  ],
+  "DG_PRIDE": [
+    {
+      "min_stage": 1,
+      "max_stage": 3,
+      "gold": "0.15*(x^2)+50",
+      "gold_value_variation": 0.1,
+      "xp": "x*2",
+      "xp_value_variation": 0.1,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "pride_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "pride_soul_chest_lv_1_droptable"
+      }
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 6,
+      "gold": "0.15*(x^2)+100",
+      "gold_value_variation": 0.08,
+      "xp": "x*2",
+      "xp_value_variation": 0.08,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "pride_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "pride_soul_chest_lv_2_droptable"
+      }
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 9,
+      "gold": "0.15*(x^2)+150",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "pride_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": "x+1",
+          "nothing_chance": 80,
+          "item_list": [
+            "pride_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "pride_soul_chest_lv_3_droptable"
+      }
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": "0.15*(x^2)+250",
+      "gold_value_variation": 0.05,
+      "xp": "x*2",
+      "xp_value_variation": 0.05,
+      "icon_item_list": [
+        "normal_soul_chest_lv_1",
+        "gluttony_soul_chest_lv_1"
+      ],
+      "drop_rate": [
+        {
+          "random_count": 3,
+          "nothing_chance": 50,
+          "item_list": [
+            "normal_soul_chest_lv_1"
+          ]
+        },
+        {
+          "random_count": 1,
+          "nothing_chance": 0,
+          "item_list": [
+            "gluttony_soul_chest_lv_1"
+          ]
+        }
+      ],
+      "droptable": {
+        "random_count": 3,
+        "nothing_chance": 5,
+        "droptable": "pride_soul_chest_lv_4_droptable"
+      }
+    }
+  ],
+  "DG_GOLD": [
+    {
+      "min_stage": 1,
+      "max_stage": 1,
+      "gold": 10000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 2,
+      "max_stage": 2,
+      "gold": 20000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 3,
+      "max_stage": 3,
+      "gold": 30000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 4,
+      "gold": 50000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 5,
+      "max_stage": 5,
+      "gold": 100000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 6,
+      "max_stage": 6,
+      "gold": 200000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 7,
+      "gold": 400000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 8,
+      "max_stage": 8,
+      "gold": 600000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 9,
+      "max_stage": 9,
+      "gold": 800000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": 1000000,
+      "gold_value_variation": 0.5,
+      "xp": 0,
+      "xp_value_variation": 0,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    }
+  ],
+  "DG_KNOWLEDGE": [
+    {
+      "min_stage": 1,
+      "max_stage": 1,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 100000,
+      "xp_value_variation": 0.1,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 2,
+      "max_stage": 2,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 200000,
+      "xp_value_variation": 0.08,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 3,
+      "max_stage": 3,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 300000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 4,
+      "max_stage": 4,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 500000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 5,
+      "max_stage": 5,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 1000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 6,
+      "max_stage": 6,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 2000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 7,
+      "max_stage": 7,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 4000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 8,
+      "max_stage": 8,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 6000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 9,
+      "max_stage": 9,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 8000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    },
+    {
+      "min_stage": 10,
+      "max_stage": 10,
+      "gold": 0,
+      "gold_value_variation": 0,
+      "xp": 10000000,
+      "xp_value_variation": 0.05,
+      "icon_item_list": [],
+      "drop_rate": [],
+      "droptable": {}
+    }
+  ]
+}
