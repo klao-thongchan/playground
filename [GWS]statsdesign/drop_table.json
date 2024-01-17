@@ -1,0 +1,2642 @@
+[
+  {
+    "TableId": "all_material_chest_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 160
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "armorhelmet_skin_beta_v1",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sub_armor_skin_beta_v1",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sub_helmet_skin_beta_v1",
+        "Weight": 3
+      }
+    ]
+  },
+  {
+    "TableId": "common_skill_shard_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_021_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_023_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_004_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_001_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_011_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_012_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_022_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_027_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_032_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "epic_skill_shard_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_009_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_010_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_013_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_019_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_024_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_normal_guarantee_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_normal_ss1",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_normal_ss2",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_rateup_guarantee_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ra_002",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_009",
+        "Weight": 2
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_rateup_guarantee_droptable_02",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ep_001",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_004",
+        "Weight": 2
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_rateup_ss1",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_009",
+        "Weight": 20
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_rateup_ss2",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_001",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_002",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_003",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_001",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ep_001",
+        "Weight": 25
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_004",
+        "Weight": 25
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_009",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ra_002",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "gacha_tutorial",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ra_002",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "gluttony_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "gluttony_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "gluttony_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "gluttony_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 30
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "gluttony_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_008",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_009",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_010",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_011",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "greedy_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "greedy_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "greedy_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "greedy_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 30
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "greedy_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_032",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_033",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_034",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_035",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "legend_skill_shard_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_014_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_015_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_025_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_030_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_031_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "lust_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "lust_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "lust_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "lust_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 30
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "lust_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_026",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_027",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_028",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_029",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_even_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 70
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 2
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 55
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 35
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 4
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 45
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 30
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 5
+      }
+    ]
+  },
+  {
+    "TableId": "normal_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 60
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 35
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "pride_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "pride_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "pride_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "pride_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 30
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "pride_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_044",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_045",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_046",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_047",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "rare_skill_shard_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_005_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_020_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_033_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_035_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "sins_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "gluttony_soul_chest_lv_1_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "greedy_soul_chest_lv_1_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "lust_soul_chest_lv_1_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "pride_soul_chest_lv_1_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sloth_soul_chest_lv_1_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "sins_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "gluttony_soul_chest_lv_2_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "greedy_soul_chest_lv_2_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "lust_soul_chest_lv_2_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "pride_soul_chest_lv_2_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sloth_soul_chest_lv_2_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "sins_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "gluttony_soul_chest_lv_3_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "greedy_soul_chest_lv_3_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "lust_soul_chest_lv_3_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "pride_soul_chest_lv_3_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sloth_soul_chest_lv_3_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "sins_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "gluttony_soul_chest_lv_4_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "greedy_soul_chest_lv_4_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "lust_soul_chest_lv_4_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "pride_soul_chest_lv_4_droptable",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "sloth_soul_chest_lv_4_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "skill_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "common_skill_shard_droptable",
+        "Weight": 70
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "rare_skill_shard_droptable",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "epic_skill_shard_droptable",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "legend_skill_shard_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "skill_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "common_skill_shard_droptable",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "rare_skill_shard_droptable",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "epic_skill_shard_droptable",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "legend_skill_shard_droptable",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "skill_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "common_skill_shard_droptable",
+        "Weight": 70
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "rare_skill_shard_droptable",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "epic_skill_shard_droptable",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "legend_skill_shard_droptable",
+        "Weight": 5
+      }
+    ]
+  },
+  {
+    "TableId": "skill_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "common_skill_shard_droptable",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "rare_skill_shard_droptable",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "epic_skill_shard_droptable",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "legend_skill_shard_droptable",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "skill_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "common_skill_shard_droptable",
+        "Weight": 90
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "rare_skill_shard_droptable",
+        "Weight": 50
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "epic_skill_shard_droptable",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "TableId",
+        "ResultItem": "legend_skill_shard_droptable",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "skill_shard_fortest",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_001_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_004_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_005_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_009_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_010_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_011_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_012_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_013_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_014_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_015_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_019_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_020_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_021_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_022_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_023_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_024_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_025_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_027_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_030_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_031_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_032_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_033_shard",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_035_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "sloth_soul_chest_lv_1_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_002",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "sloth_soul_chest_lv_2_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 15
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 7
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 2
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_003",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "sloth_soul_chest_lv_3_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 3
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_004",
+        "Weight": 100
+      }
+    ]
+  },
+  {
+    "TableId": "sloth_soul_chest_lv_4_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "sloth_soul_chest_lv_5_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_005",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_014",
+        "Weight": 100
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_015",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_016",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "it_017",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "sub_armor_skin_beta_v1",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ep_002",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ra_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "armor_sk_ra_002",
+        "Weight": 40
+      }
+    ]
+  },
+  {
+    "TableId": "sub_helmet_skin_beta_v1",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_le_002",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_001",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_002",
+        "Weight": 10
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "helmet_sk_ep_003",
+        "Weight": 10
+      }
+    ]
+  },
+  {
+    "TableId": "tutorial_skill_chest_droptable",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "cs_021_shard",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "TableId": "weapon_skin_beta_v1",
+    "Nodes": [
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_002",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_co_003",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_001",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_swo_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_002",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_co_003",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_001",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_fst_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_002",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_co_003",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_001",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gsw_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_002",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_co_003",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_001",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_gkt_le_001",
+        "Weight": 1
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_001",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_002",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_co_003",
+        "Weight": 40
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_001",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ra_002",
+        "Weight": 20
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_ep_001",
+        "Weight": 5
+      },
+      {
+        "ResultItemType": "ItemId",
+        "ResultItem": "wea_sk_ghm_le_001",
+        "Weight": 1
+      }
+    ]
+  }
+]
