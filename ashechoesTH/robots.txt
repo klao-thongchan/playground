@@ -1,0 +1,38 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Smartphone
+Disallow:
+
+User-agent: Googlebot-Desktop
+Disallow:
+
+User-agent: Googlebot-News
+Disallow:
+
+User-agent: Googlebot-Video
+Disallow:
+
+User-agent: GoogleOther
+Disallow:
+
+User-agent: APIs-Google
+Disallow:
+
+User-agent: AdsBot-Google-Mobile
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Google-Safety
+Disallow:
+
+User-agent: FeedFetcher-Google
+Disallow:
+
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://ashechoes.in.th/sitemap.xml
