@@ -9,7 +9,7 @@ load_dotenv()
 
 # Initialize Anthropic client
 anthropic = Anthropic(
-    api_key=os.getenv('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')
+    api_key=os.getenv('')
 )
 
 def translate_text(text):
