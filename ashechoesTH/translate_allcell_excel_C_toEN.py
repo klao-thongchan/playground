@@ -5,49 +5,77 @@ from pathlib import Path
 import time
 import re
 
-def preserve_tags(text):
+def preserve_special_chars(text):
     """
-    Extract and preserve tags before translation
+    Extract and preserve tags and newlines before translation
     """
-    # Create placeholders for tags
+    # Create placeholders for tags and newlines
     square_brackets = []
     angle_brackets = []
+    newlines = []
     
-    # Extract tags
+    # Extract tags and newlines
     square_pattern = r'\[.*?\]'
     angle_pattern = r'<.*?>'
+    newline_pattern = r'\\n'
     
     # Save square brackets
     square_matches = re.finditer(square_pattern, text)
     for i, match in enumerate(square_matches):
         square_brackets.append(match.group())
         text = text.replace(match.group(), f'[SQUARETAG{i}]')
-        
+    
     # Save angle brackets
     angle_matches = re.finditer(angle_pattern, text)
     for i, match in enumerate(angle_matches):
         angle_brackets.append(match.group())
         text = text.replace(match.group(), f'<ANGLETAG{i}>')
-        
-    return text, square_brackets, angle_brackets
+    
+    # Save newlines
+    newline_matches = re.finditer(newline_pattern, text)
+    for i, match in enumerate(newline_matches):
+        newlines.append(match.group())
+        text = text.replace(match.group(), f'NEWLINE{i}')
+    
+    return text, square_brackets, angle_brackets, newlines
 
-def restore_tags(text, square_brackets, angle_brackets):
+def restore_special_chars(text, square_brackets, angle_brackets, newlines):
     """
-    Restore tags after translation
+    Restore tags and newlines after translation
     """
     # Restore square brackets
     for i, tag in enumerate(square_brackets):
         text = text.replace(f'[SQUARETAG{i}]', tag)
-        
+    
     # Restore angle brackets
     for i, tag in enumerate(angle_brackets):
         text = text.replace(f'<ANGLETAG{i}>', tag)
-        
+    
+    # Restore newlines
+    for i, newline in enumerate(newlines):
+        text = text.replace(f'NEWLINE{i}', '\\n')
+    
     return text
+
+def post_process_translation(text):
+    """
+    Post-process translated text to ensure proper newline handling
+    """
+    # Replace any actual newlines with \n
+    text = text.replace('\r\n', '\\n')  # Handle Windows-style newlines
+    text = text.replace('\n', '\\n')     # Handle Unix-style newlines
+    
+    # Remove any duplicate \n that might have been created
+    text = re.sub(r'\\n\\n+', '\\n', text)
+    
+    # Ensure there's no whitespace around \n
+    text = re.sub(r'\s*\\n\s*', '\\n', text)
+    
+    return text.strip()
 
 def translate_text(text, model="qwen2.5:3b"):
     """
-    Translate text using Ollama API while preserving tags
+    Translate text using Ollama API while preserving tags and newlines
     """
     if not text or pd.isna(text):
         return text
@@ -55,12 +83,11 @@ def translate_text(text, model="qwen2.5:3b"):
     # Convert to string if not already
     text = str(text)
     
-    # Preserve tags and newlines
-    text = text.replace('\n', ' ')
-    preserved_text, square_brackets, angle_brackets = preserve_tags(text)
+    # Preserve special characters
+    preserved_text, square_brackets, angle_brackets, newlines = preserve_special_chars(text)
     
     # Prepare the prompt
-    prompt = f"Translate the following text to English. Return only translated text, no comment, no instruction, no additional context, nothing else: {preserved_text}"
+    prompt = f"Translate the following text to English. Keep all formatting and spacing exactly as is. Return only translated text, no comment, no instruction, no additional context, nothing else: {preserved_text}"
     
     # Ollama API endpoint
     url = "http://localhost:11434/api/generate"
@@ -78,36 +105,56 @@ def translate_text(text, model="qwen2.5:3b"):
         result = response.json()
         translated_text = result['response'].strip()
         
-        # Restore tags
-        final_text = restore_tags(translated_text, square_brackets, angle_brackets)
+        # Restore special characters
+        final_text = restore_special_chars(translated_text, square_brackets, angle_brackets, newlines)
+        
+        # Post-process to ensure proper newline handling
+        final_text = post_process_translation(final_text)
+        
         return final_text
     except Exception as e:
         print(f"Translation error for text '{text}': {str(e)}")
         return text
 
+def validate_translation(text):
+    """
+    Validate the translation output to ensure proper formatting
+    """
+    if '\n' in text and '\\n' not in text:
+        print(f"Warning: Found actual newline in translation. Converting to \\n")
+        return post_process_translation(text)
+    return text
+
 def translate_excel(input_path, output_path, model="qwen2.5:3b"):
     """
-    Translate column C in an Excel file to English
+    Translate the third column (column C) in an Excel file to English
     """
     try:
         # Read the Excel file
         print(f"Reading Excel file: {input_path}")
         df = pd.read_excel(input_path)
         
-        if 'C' not in df.columns:
-            print("Column C not found in the Excel file!")
+        if len(df.columns) < 3:
+            print("Excel file has fewer than 3 columns!")
             return False
+        
+        # Get the name of the third column
+        third_column = df.columns[2]
         
         # Initialize progress tracking
         total_cells = len(df)
         processed_cells = 0
         
-        # Process only column C
-        print("Translating column C contents...")
+        # Process only the third column
+        print("Translating third column (column C) contents...")
         for idx in df.index:
-            cell_value = df.at[idx, 'C']
+            cell_value = df.iloc[idx, 2]  # Access third column by index 2
             if isinstance(cell_value, (str, int, float)):
-                df.at[idx, 'C'] = translate_text(cell_value, model)
+                # Translate the text
+                translated_text = translate_text(cell_value, model)
+                # Validate and fix if necessary
+                translated_text = validate_translation(translated_text)
+                df.iloc[idx, 2] = translated_text
                 
             # Update progress
             processed_cells += 1

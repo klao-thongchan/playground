@@ -15,7 +15,7 @@ def translate_text(text, model="qwen2.5:3b"):
     text = str(text)
     
     # Prepare the prompt
-    prompt = f"Translate the following text to English: {text}"
+    prompt = f"Translate the following text to English, Return only translated text, no comment, no instruction, no additioncal context, nothing else: {text}"
     
     # Ollama API endpoint
     url = "http://localhost:11434/api/generate"
@@ -87,8 +87,8 @@ def translate_excel(input_path, output_path, model="qwen2.5:3b"):
 
 def main():
     # Example usage
-    input_file = "input.xlsx"
-    output_file = "translated_output.xlsx"
+    input_file = "input_example.xlsx"
+    output_file = "output_EN.xlsx"
     
     # Ensure Ollama is running and the model is available
     try:
