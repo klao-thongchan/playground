@@ -3,7 +3,7 @@ from anthropic import Anthropic
 import time
 
 # Replace this with your actual Anthropic API key
-ANTHROPIC_API_KEY = "y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"  # Replace this line with your actual API key
+ANTHROPIC_API_KEY = ""  # Replace this line with your actual API key
 
 # Initialize Anthropic client
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
