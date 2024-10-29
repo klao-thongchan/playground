@@ -204,8 +204,8 @@ def main():
     TRAINING_FILE = "training_data.xlsx"
     INPUT_FILE = "to_translate.xlsx"
     OUTPUT_FILE = "translated_output.xlsx"
-    SOURCE_LANG = "English"
-    TARGET_LANG = "Spanish"  # Change as needed
+    SOURCE_LANG = "Chinese"
+    TARGET_LANG = "Thai"  # Change as needed
     
     # Initialize translation system
     translator = TranslationSystem(API_KEY)
