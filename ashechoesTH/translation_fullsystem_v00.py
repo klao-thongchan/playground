@@ -18,17 +18,17 @@ class TranslationSystem:
         Build translation memory and term base from training data
         
         Args:
-            training_file: Excel file with historical translations (B: source, C: target)
+            training_file: Excel file with historical translations (col B: source, col C: target)
         """
         print("Building translation assets...")
         
-        # Read training data
-        df = pd.read_excel(training_file)
+        # Read training data - use None for header to get column letters
+        df = pd.read_excel(training_file, header=None)
         
         # Process each translation pair
-        for _, row in df.iterrows():
-            source = str(row['B']).strip()
-            target = str(row['C']).strip()
+        for idx, row in df.iterrows():
+            source = str(row.iloc[1]).strip()  # Column B is index 1
+            target = str(row.iloc[2]).strip()  # Column C is index 2
             
             # Skip invalid entries
             if pd.isna(source) or pd.isna(target) or not source or not target:
@@ -166,8 +166,8 @@ Please maintain consistency with the provided translations while ensuring natura
         """Translate an Excel file"""
         print(f"Translating {input_file}...")
         
-        # Read input file
-        df = pd.read_excel(input_file)
+        # Read input file without headers
+        df = pd.read_excel(input_file, header=None)
         
         # Create output DataFrame
         df_out = df.copy()
@@ -175,34 +175,34 @@ Please maintain consistency with the provided translations while ensuring natura
         # Translate each row
         total_rows = len(df)
         for idx, row in df.iterrows():
-            source_text = str(row['B']).strip()
+            source_text = str(row.iloc[1]).strip()  # Column B is index 1
             
             # Skip empty or invalid entries
             if pd.isna(source_text) or not source_text:
-                df_out.at[idx, 'C'] = ''
+                df_out.iloc[idx, 2] = ''  # Column C is index 2
                 continue
             
             # Translate and store result
             try:
                 translation = self.translate_text(source_text, source_lang, target_lang)
-                df_out.at[idx, 'C'] = translation
+                df_out.iloc[idx, 2] = translation  # Column C is index 2
             except Exception as e:
                 print(f"Error translating row {idx + 1}: {str(e)}")
-                df_out.at[idx, 'C'] = f"ERROR: {str(e)}"
+                df_out.iloc[idx, 2] = f"ERROR: {str(e)}"
             
             # Show progress
             if (idx + 1) % 10 == 0:
                 print(f"Processed {idx + 1}/{total_rows} rows")
         
         # Save output file
-        df_out.to_excel(output_file, index=False)
+        df_out.to_excel(output_file, index=False, header=False)
         print(f"Translation completed. Output saved to {output_file}")
 
 def main():
     # Configuration
-    API_KEY = "your_anthropic_api_key"  # Replace with your API key
+    API_KEY = "APIkey"  # Replace with your API key
     TRAINING_FILE = "training_data.xlsx"
-    INPUT_FILE = "to_translate.xlsx"
+    INPUT_FILE = "input_example.xlsx"
     OUTPUT_FILE = "translated_output.xlsx"
     SOURCE_LANG = "Chinese"
     TARGET_LANG = "Thai"  # Change as needed
