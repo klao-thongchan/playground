@@ -140,7 +140,7 @@ class TranslationSystem:
         context = self._create_context(source_text)
         
         # Create prompt for Claude
-        prompt = f"""Please translate the following text from {source_lang} to {target_lang}, using the provided translation memory and term base as reference.
+        prompt = f"""Please translate the following text from {source_lang} to {target_lang}, using the provided translation memory and term base as reference. Leave tag as it is.
 
 Context:
 {context}
