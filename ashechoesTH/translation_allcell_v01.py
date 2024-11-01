@@ -201,22 +201,27 @@ Please maintain consistency with the provided translations while ensuring natura
                 # Get total number of cells for progress tracking
                 total_cells = df.size
                 processed_cells = 0
+                skipped_cells = 0
                 
                 # Translate each cell in the sheet
                 for col in df.columns:
                     for idx, cell_value in df[col].items():
-                        source_text = str(cell_value).strip()
-                        
-                        # Skip empty or invalid entries
-                        if pd.isna(source_text) or not source_text:
-                            df_out.at[idx, col] = cell_value
+                        # Check for empty cells first - multiple conditions for emptiness
+                        if (pd.isna(cell_value) or  # Check for NaN
+                            cell_value == "" or     # Empty string
+                            str(cell_value).strip() == ""): # Whitespace only
+                            df_out.at[idx, col] = cell_value  # Keep original empty value
                             processed_cells += 1
+                            skipped_cells += 1
                             continue
+                        
+                        source_text = str(cell_value).strip()
                         
                         # Skip if cell contains only numbers
                         if str(cell_value).replace('.', '').replace('-', '').isdigit():
                             df_out.at[idx, col] = cell_value
                             processed_cells += 1
+                            skipped_cells += 1
                             continue
                         
                         # Translate and store result
@@ -233,11 +238,13 @@ Please maintain consistency with the provided translations while ensuring natura
                         if processed_cells % 10 == 0:
                             progress = (processed_cells / total_cells) * 100
                             print(f"Progress: {processed_cells}/{total_cells} cells ({progress:.1f}%)")
+                            print(f"Skipped {skipped_cells} empty or numeric cells")
                 
                 # Save the translated sheet
                 df_out.to_excel(writer, sheet_name=sheet_name, index=False)
                 
         print(f"Translation completed. Output saved to {output_file}")
+        print(f"Total empty or numeric cells skipped: {skipped_cells}")
 
 def main():
     # Configuration
