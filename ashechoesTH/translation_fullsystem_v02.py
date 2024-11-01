@@ -193,7 +193,7 @@ Please maintain consistency with the provided translations while ensuring natura
         # Get translation from Claude
         message = self.client.messages.create(
             model="claude-3-haiku-20240307",
-            max_tokens=1000,
+            max_tokens=2000,
             temperature=0.3,
             messages=[
                 {"role": "user", "content": prompt}
