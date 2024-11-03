@@ -242,7 +242,7 @@ def main():
     # Configuration
     API_KEY = "aaa"  # Replace with your API key
     TRAINING_FILE = "training_data.xlsx"
-    INPUT_FILE = "th_append_1101_totranslate.xlsx"
+    INPUT_FILE = "totranslate_temp.xlsx"
     OUTPUT_FILE = "translated_output.xlsx"
     SOURCE_LANG = "Chinese"
     TARGET_LANG = "Thai"  # Change as needed
