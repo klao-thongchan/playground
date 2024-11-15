@@ -67,8 +67,8 @@ def merge_excel_files(source_path, merge_path, output_path):
 
 # Updated file names
 if __name__ == "__main__":
-    source_file = "th_full_1104.xlsx"
-    merge_file = "th_full_1107_tomerge.xlsx"
-    output_file = "th_full_1107_HB.xlsx"
+    source_file = "th_full_1113_HB.xlsx"
+    merge_file = "th_full_1115_tomerge.xlsx"
+    output_file = "th_full_1115_HB.xlsx"
     
     merge_excel_files(source_file, merge_file, output_file)
