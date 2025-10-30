@@ -1,0 +1,25 @@
+import anthropic
+
+client = anthropic.Anthropic(
+    # defaults to os.environ.get("ANTHROPIC_API_KEY")
+    api_key="aa",
+)
+
+message = client.messages.create(
+    model="claude-opus-4-1-20250805",
+    max_tokens=5555,
+    temperature=0.2,
+    system="You are a blog writer specializing in simplifying complex technology concepts and crafting engaging marketing content. Your target audience includes tech enthusiasts and readers who appreciate clear explanations, a touch of sarcasm, and an approachable tone. Try using easy vocabulary as same as IELTS 7.0.\n\nYour Responsibilities:\n- Translate advanced technical topics into easily digestible blog posts.\n- Infuse content with wit and relatable analogies to captivate readers.\n- Organize posts with clear headings, bullet points, and comparison tables for clarity.\n- Incorporate actionable insights, step-by-step guides, and practical examples to make the content immediately useful.\n- Maintain a balance of professionalism and conversational style, suitable for both novices and tech-savvy readers.\n\nContent Guidelines:\n- Use simple vocabulary to ensure accessibility for non-native English speakers.\n- Highlight real-world applications to demonstrate the relevance of the topics discussed.\n- Stay updated with the latest trends in technology, marketing, and business to provide fresh and accurate perspectives.\n- Focus on empowering readers to understand and apply complex concepts effortlessly.\n- Given real life example to make content more understandable.\n\nTone:\n- Informative and engaging, with a professional yet relatable approach.\n- Inject subtle humor and sarcasm where appropriate to keep the audience entertained and invested.\n\nWriting Goals:\n- Your primary aim is to create content that not only informs but also inspires readers to explore and embrace technology. Strive for clarity, practicality, and relatability in every post you craft.\n\nImportant rules for writing:\n- DO NOT ENGAGE WITH THE READERS. For example, using the word 'you'.\n- No emojis\n- No table\n- No citations",
+    messages=[
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "1. Save like a samurai wields a sword: always at your side, rarely unsheathed. An emergency fund exists for real needs, not passing whims, and the discipline to hold it builds quiet confidence.\n\n2. Treat your possessions as if they’re sacred. Use one cup for years, one towel until it frays. Respect for objects curbs impulse buying and deepens appreciation for what already serves you well.\n\n3. Live in a small house with a big heart. Clean, orderly, and welcoming beats grand and empty. Comfort comes from stewardship, not square footage.\n\n4. Home-cooked meals are the reliable delight. Cooking for yourself saves money, nourishes health, and adds warmth that no restaurant bill can buy.\n\n5. Save before you spend. Quiet wealth prefers a plan: decide the monthly contribution to future you, then fit today’s purchases around it.\n\n6. Simplicity is the original luxury. Minimalism isn’t an aesthetic stunt; it’s a mental model that frees space, time, and attention for what matters.\n\n7. Silence is a tool for understanding, not a lack of words. Listening more than speaking turns conversation into usable data for better decisions.\n\n8. Gratitude scales small. A sincere “arigatou” to the ordinary—hot water, a working pen, a clear morning—sharpens awareness of abundance already present.\n\n9. Money shows up as a by-product. Aim attention at craft, care, and usefulness; income tends to follow the wake of consistent value.\n\n10. Work is work; life is life. Give each your full presence, but don’t mix them. Rest and family time deserve the same intention as deadlines.\n\n11. Plan everything, expecting change. A plan reduces friction and makes adjustments graceful rather than chaotic when reality inevitably shifts.\n\n12. Small things carry big joy. A warm cup of tea, a good book, the sound of rain—ordinary sensory moments create durable satisfaction.\n\n13. Invest in knowledge before toys. Books, courses, and practice compound; gadgets depreciate. Feed curiosity first and let tools come second.\n\n14. Walk slowly to go far. Sustainable progress—steady saving, learning, and practicing—outperforms sporadic sprints toward quick wins.\n\n15. Respect others without measuring them. People travel different roads at different speeds; judgment and comparison add nothing to your own journey.\n\n16. Resist display; true value often hides. A good life doesn’t beg for likes. Quiet quality, not public proof, is the better metric.\n\n17. Let nature set your tempo. Seasons don’t rush cherry blossoms; they arrive on time. Patience aligns action with ripeness rather than restlessness.\n\n18. A quiet smile endures. It isn’t for approval; it signals ease with who you are and peace with what you have.\n"
+                }
+            ]
+        }
+    ]
+)
+print(message.content)
