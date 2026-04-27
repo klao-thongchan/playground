@@ -218,5 +218,5 @@ FIRECRAWL_API_KEY=
 If you want the Firecrawl CLI and skills installed without browser auth, run:
 
 ```bash
-npx -y firecrawl-cli@latest init --all -k fc-c63b3af5a37d41e0b6c95b58d49ed6b3
+npx -y firecrawl-cli@latest init --all -k fc-
 ```
