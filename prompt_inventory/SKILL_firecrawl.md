@@ -212,7 +212,7 @@ parameters, and SDKs:
 Use this API key for this onboarding session:
 
 ```dotenv
-FIRECRAWL_API_KEY=fc-c63b3af5a37d41e0b6c95b58d49ed6b3
+FIRECRAWL_API_KEY=
 ```
 
 If you want the Firecrawl CLI and skills installed without browser auth, run:
